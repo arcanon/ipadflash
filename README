@@ -2,4 +2,6 @@ This page hopes to provide flash for the ipad or iphone running iOS and within S
 The great thing here is that gnash is currently under development. This requires 
 your device to be jail broken (not detailed here, search on the Internet). 
 
-See gnash_ipad.sh as the starting point. But there is currently a lot of information missing (for example SDL is compiled very differently then the current configure/makefiles)! So if you get stuck drop me a line.
+See gnash_ipad.sh as the starting point. But there is currently a lot of information
+missing (for example SDL is compiled very differently then the current configure/makefiles)!
+So if you get stuck drop me a line.
