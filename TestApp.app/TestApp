@@ -1,0 +1,21 @@
+#!/bin/bash
+HT=$(dirname "$0")
+export DYLD_LIBRARY_PATH=/var/lib
+
+#exec "${HT}"/TestApp_ --width 768 --height 1024 "http://www.youtube.com/player2.swf?video_id=kpFp5hhCZ4w&plid=AASMPRn7W6nqamvQ&iv_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv_module-vfl178376.swf&rv.5.rating=4.0&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvaHwnFG9CAU&rv.1.author=CapeTownTourism&rv.1.rating=4.8&rv.4.title=Cape+Town&rv.5.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FMSelk6lQDuE%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl107009.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl101609.swf&rv.0.title=south+africa%3A+helicopter+ride+over+cape+town&iv3_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv3_module-vfl178380.swf&rv.7.rating=4.52941176471&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFEWwzm53vlg&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt1tZ4fNufC8&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM4ALstwYkTM&rv.2.view_count=57948&rv.4.view_count=2081&playerh=640&rv.1.view_count=6764&rv.5.title=Clifton+Beach+-+Cape+Town%2C+South+Africa&rv.6.rating=4.27644569817&sk=fal0tGAOzcmbTu9fkHPWNMIScoXL_sZbC&rv.1.title=Cape+Town+-+Lifestyle&playerw=360&rv.1.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFfD--MHTddE%2Fdefault.jpg&rv.3.length_seconds=145&rv.5.author=SmartGuide1" 
+exec "${HT}"/TestApp_ --width 768 --height 1024 "${HT}"/zoomhenge.swf 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gdb TestApp_
+#gdbserver 192.168.2.163:2345 TestApp_ yourdotspot3.swf
