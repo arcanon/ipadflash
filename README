@@ -5,3 +5,6 @@ your device to be jail broken (not detailed here, search on the Internet).
 See gnash_ipad.sh as the starting point. But there is currently a lot of information
 missing (for example SDL is compiled very differently then the current configure/makefiles)!
 So if you get stuck drop me a line.
+
+Links:
+Plugin that started the idea - http://github.com/steventroughtonsmith/MobileSafariPlugin
