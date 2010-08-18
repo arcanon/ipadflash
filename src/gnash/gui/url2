@@ -1,0 +1,1801 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<!-- machid: bZTkxeFhlV0lLQTIzVENFRVNQakYwTTRLc1lpU1lZUWVsX3N3NW9nekNOLVdrcklHN3J1MlRn -->
+<head>
+				<script>
+			var yt = yt || {};
+			yt.timing = yt.timing || {};
+			yt.timing.cookieName = 'VISITOR_INFO1_LIVE';
+			yt.timing.tick = function(label) {
+				var timer = yt.timing.timer || {};
+				timer[label] = new Date().getTime();
+				yt.timing.timer = timer;
+			};
+				yt.timing.experiment = '907111';
+				yt.timing.wff = true;
+			
+				yt.timing.tick('start');
+			
+			try {
+				yt.timing.pt = window.gtbExternal && window.gtbExternal.pageT() ||
+							window.external && window.external.pageT;
+			} catch(e) {}
+			if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+				yt.timing.pt = window.chrome && window.chrome.csi && Math.floor(window.chrome.csi().pageT);
+			}
+		</script>
+
+		<script>
+			var yt = yt || {};
+			yt.preload = {};
+			yt.preload.start = function() {
+				var img = new Image();
+				yt.preload.videoConnection = img;
+				img.onload = img.onerror = function () {
+					delete yt.preload.videoConnection;
+				};
+				img.src = 'http:\/\/v10.lscache2.c.youtube.com\/generate_204?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43&factor=1.25&id=f6c2540f1ee2109c';
+				img = null;
+			};
+			yt.preload.start();
+		</script>
+
+		<title>
+		YouTube
+				- Richard Stallman Free software Song
+	</title>
+
+				<link id="www-core-css" rel="stylesheet" href="http://s.ytimg.com/yt/cssbin/www-core-vfl178416.css">
+
+
+	
+
+		
+	<link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=de_DE" title="YouTube-Videosuche">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+		<link rel="canonical" href="/watch?v=9sJUDx7iEJw">
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/watch?desktop_uri=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9sJUDx7iEJw&amp;v=9sJUDx7iEJw&amp;gl=DE">
+		<link rel="shortlink" href="http://youtu.be/9sJUDx7iEJw">
+		<meta name="title" content="Richard Stallman Free software Song">
+
+		<meta name="description" content="Richard Stallman en Ecuador, cantando el temita, del free software, grabado por Julian Coccia.">
+
+		<meta name="keywords" content="linux, richard, stallman, free, software, song, azathor, ruddy, catalan, españa, julian, coccia">
+
+	<link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3D9sJUDx7iEJw&format=json" title="Richard Stallman Free software Song" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3D9sJUDx7iEJw&format=xml" title="Richard Stallman Free software Song" />
+
+
+		<script>
+		var gYouTubePlayerReady = false;
+		if (!window['onYouTubePlayerReady']) {
+			window['onYouTubePlayerReady'] = function() {
+				gYouTubePlayerReady = true;
+			};
+		}
+	</script>
+			<script>
+			if (window.yt.timing) {
+				yt.timing.tick('ct');
+			}
+		</script>
+
+
+</head>
+<body class="date-20100721 de_DE not-english watch5-active" dir="ltr">
+	<!--[if IE]><div id="ie"><![endif]-->
+	<!-- begin prepage section -->
+	<form name="logoutForm" method="post" action="/">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+	<!-- end prepage section -->
+	<div id="page" class="	watch ">
+			<div id="pagetop">
+		<!-- begin pagetop section -->
+		<div id="masthead-container">
+				<div id="masthead" class="">
+					<a href="/" title="YouTube-Startseite">
+			<img id="logo" class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="YouTube-Startseite">
+		</a>
+
+		<div id="masthead-search">
+			
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm" onsubmit="">
+		<input id="masthead-search-term" class="search-term" name="search_query" value="" type="text" tabindex="1" onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"   maxlength="128">
+
+
+
+			<button type="button" class="search-button yt-uix-button" onclick="if (_gel('masthead-search-term').value != '') { document['searchForm'].submit(); }; return false;;return false;" tabindex="2" ><span class="yt-uix-button-content">Suchen</span></button>
+
+	</form>
+
+		</div>
+		<div id="masthead-nav">
+			<a href="/videos">Kategorien</a><a href="http://upload.youtube.com/my_videos_upload">Video hochladen</a>
+		</div>
+			<div id="masthead-utility">
+				<a class="start" href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&amp;ltmpl=sso&amp;hl=de_DE&amp;service=youtube">Konto erstellen</a><a class="end" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Dde_DE%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&amp;hl=de_DE&amp;ltmpl=sso">Anmelden</a>
+			</div>
+	</div>
+
+		</div>
+		
+		<div id="alerts" >			<div id="default-language-box" style="margin: 10px 0 20px 0; text-align: left; padding: 8px 10px; background-color: #e6efff; border: 1px solid #aeaed5; font-size: 13px;">
+		<div id="default-language-top">
+			<div class="box-close-link"><a href="http://www.youtube.com/watch?v=9sJUDx7iEJw&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" class="hLink">Schließen</a><img alt="Schließen" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="_hidediv('default-language-box');"></div>
+			<div id="default-language-translated">
+					<p class="errorParagraph"><strong>Willkommen bei YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Vorgeschlagene Sprache (von uns festgelegt):</strong>  Deutsch</p>
+					
+					<p class="errorParagraph"><strong>Vorgeschlagene Standorteinstellung (von uns festgelegt):</strong>  Deutschland</p>
+					
+					<p class="errorParagraph">Durch den Standortfilter werden in Listen wie <a href="/videos?s=mp">Meist gesehen</a> und in den Suchergebnissen Videos aus diesem Land bzw. dieser Region angezeigt.Du kannst die einzelnen Einstellungen über die Links unten in der Fußzeile ändern.</p>
+					
+					<p class="errorParagraph">Klicke auf &quot;OK&quot;, um die Einstellung zu übernehmen, oder auf &quot;Abbrechen&quot;, um &quot;English (US)&quot; als Sprache und &quot;Weltweit (alle)&quot; als Standortfilter festzulegen.</p>
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<button href="http://www.youtube.com/watch?v=9sJUDx7iEJw&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" type="button" class=" yt-uix-button yt-uix-button-urgent" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">OK</span></button>
+				<button href="http://www.youtube.com/watch?v=9sJUDx7iEJw&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" type="button" class=" yt-uix-button" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">Abbrechen</span></button>
+		</div>
+	</div>
+
+			</div>
+			<div id="default-language-english" style="display: none;">
+				<br>
+					<p class="errorParagraph"><strong>Welcome to YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Suggested Language (we have set your preference to this):</strong> German</p>
+					
+					<p class="errorParagraph"><strong>Suggested Location Filter (we have set your preference to this):</strong> Germany</p>
+					
+					<p class="errorParagraph">The location filter shows you popular videos from the selected country or region on lists like <a href="/videos?s=mp">Most Viewed</a> and in search results. If you would like to change either of these preferences, please use the links in the footer at the bottom of the page.</p>
+					
+					<p class="errorParagraph">Click &quot;OK&quot; to accept these settings, or click &quot;Cancel&quot; to set your language preference to &quot;English (US)&quot; and your country filter to &quot;Worldwide&quot;.</p>
+
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<button href="http://www.youtube.com/watch?v=9sJUDx7iEJw&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" type="button" class=" yt-uix-button yt-uix-button-urgent" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">OK</span></button>
+				<button href="http://www.youtube.com/watch?v=9sJUDx7iEJw&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" type="button" class=" yt-uix-button" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">Abbrechen</span></button>
+		</div>
+	</div>
+
+			</div>
+				<div id="default-language-english-show-link">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-show-link', 'default-language-english-hide-link', 'default-language-english'); return false;">Show message in English</a>
+				</div>
+				<div id="default-language-english-hide-link" style="display: none;">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-hide-link', 'default-language-english', 'default-language-english-show-link'); return false;">Hide message in English</a>
+				</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	
+</div>
+		<!-- end pagetop section -->
+	</div>
+	<div id="content" class="		player-new-ui ">
+			<!-- begin watchsearchclose section -->
+	<div id="watch-search-close-ie"></div>
+	<div id="watch-search-close">
+		<div class="tab tab-upper"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button></div>
+		<div class="tab tab-lower"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.watch5.closeContent"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button></div>
+	</div>
+	<div id="watch-search-close-tiny">
+		<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.watch5.closeContent"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+	</div>
+	<!-- end watchsearchclose section -->
+	<div id="watch-container">
+	<!-- begin contenttop section -->
+	<div id="watch-headline-container">
+			<div id="watch-headline" class="watch-headline">
+
+		<h1 id="watch-headline-title">
+						<span id="eow-title" class=""  title="Richard Stallman Free software Song">
+				Richard Stallman Free software Song
+			</span>
+
+		</h1>
+
+		<div id="watch-headline-user-info">
+				<a id="watch-username" class="inline-block" href="/user/AZATHOR"><strong>AZATHOR</strong></a>
+			<span id="watch-video-count"
+						class="watch-expander yt-uix-expander yt-uix-expander-collapsed"
+						data-expander-action="yt.www.watch.watch5.handleToggleMoreFromUser">
+				<span class="watch-expander-head yt-uix-expander-head yt-rounded">
+					<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+12 Videos
+				</span>
+			</span>
+
+			<button onclick="yt.www.watch.about.subscribeWatch5(yt.getConfig('VIDEO_USERNAME'), 'username', yt.getConfig('SUBSCRIBE_AXC'),'nourgent');;return false;" title="Klicke hier, um bei neuen Videos auf diesem Kanal benachrichtigt zu werden." type="button" class=" yt-uix-button yt-uix-tooltip" id="subscribeDiv" ><span class="yt-uix-button-content">Abonnieren</span></button>
+			<button type="button" class="hid yt-uix-button" onclick="yt.www.watch.about.editSubscription(yt.getConfig('VIDEO_USERNAME'), yt.getConfig('SUBSCRIBE_AXC'), 'alerts');;return false;" id="editSubscriptionDiv" ><span class="yt-uix-button-content">Abo bearbeiten</span></button>
+
+		</div>
+		<div id="watch-more-from-user" class="collapsed">
+			<div id="watch-channel-discoverbox" class="yt-rounded">
+				<span id="watch-channel-loading">Wird geladen...</span>
+			</div>
+		</div>
+
+	</div>
+
+	</div>
+	<!-- end contenttop section -->
+	<div id="watch-video-container">
+		<div id="watch-video" class=" ">
+					<script>
+			if (window.yt.timing) {
+				yt.timing.tick('bf');
+			}
+		</script>
+
+			<div id="watch-player" class="flash-player">
+					
+		
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+	
+		
+		
+		
+	
+	
+
+
+
+	<script>
+		(function() {
+			var isIE = /*@cc_on!@*/false;
+			var swfHTML = (isIE) ? "<object height=\"38" + "5\" width=\"64" + "0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\" ><param name=\"movie\" value=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl178359.swf\"><param name=\"flashvars\" value=\"rv.7.length_seconds=12&rv.2.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fy1DFwtR755I%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHELrxLdP85c&rv.0.view_count=969253&enablecsi=1&rv.2.title=Young+Richard+Stallman&rv.6.author=bfb72&rv.3.view_count=118660&rv.0.length_seconds=3119&rv.4.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FS-xb1miTjoE%2Fdefault.jpg&fmt_url_map=34%7Chttp%3A%2F%2Fv10.lscache2.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43%26factor%3D1.25%26id%3Df6c2540f1ee2109c%2C5%7Chttp%3A%2F%2Fv22.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B%26factor%3D1.25%26id%3Df6c2540f1ee2109c&csi_page_type=watch&keywords=linux%2Crichard%2Cstallman%2Cfree%2Csoftware%2Csong%2Cazathor%2Cruddy%2Ccatalan%2Cespa%C3%B1a%2Cjulian%2Ccoccia&cr=DE&cc3_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fsubtitles3_module-vfl178359.swf&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FS76pHIYx3ik%2Fdefault.jpg&rv.3.rating=4.45054945055&fmt_list=34%2F320x240%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=b6YCUWlbBMo&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db6YCUWlbBMo&rv.0.rating=4.15180349635&rv.4.rating=4.62337662338&rv.5.id=xSkCny-HtTw&rv.2.view_count=34092&rv.0.featured=1&rv.0.id=HELrxLdP85c&cc_font=Arial+Unicode+MS%2C+arial%2C+verdana%2C+_sans&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxSkCny-HtTw&rv.6.length_seconds=192&timestamp=1280095776&rv.0.author=lockergnome&cc_asr=1&rv.2.author=pauloslomp&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS76pHIYx3ik&fmt_map=34%2F320x240%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=de_DE&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vfl178359.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHELrxLdP85c%2Fdefault.jpg&rv.5.length_seconds=169&rv.7.author=kyrlen&rv.3.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FI25UeVXrEHQ%2Fdefault.jpg&rv.5.view_count=51414&tts_watch_url=%2Fwatch_ajax%3Faction_get_caption_track_all%26v%3D9sJUDx7iEJw&rv.1.length_seconds=118&rv.3.id=I25UeVXrEHQ&rv.2.id=y1DFwtR755I&rv.2.length_seconds=30&t=vjVQa1PpcFPYl2BkiNiM8m-gE_vLqvaW4jDwWf7rmD0%3D&rv.6.id=S76pHIYx3ik&vq=auto&rv.6.view_count=48106&rv.3.author=jrearick&rv.4.id=S-xb1miTjoE&ttsurl=http%3A%2F%2Fvideo.google.com%2Ftimedtext%3Fsparams%3Dcaps%252Cexpire%252Cv%26expire%3D1280120400%26caps%3Dasr%26key%3Dyttt1%26signature%3DC65995E474A8657E658DA21A11F686C5E22DA6EA.92B1EC779EA1BB653876A4DCB49C4BFAF03851E1&fexp=907111&rv.4.author=darkapitude&rv.7.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2Fb6YCUWlbBMo%2Fdefault.jpg&allow_embed=1&fmt_stream_map=34%7Chttp%3A%2F%2Fv10.lscache2.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43%26factor%3D1.25%26id%3Df6c2540f1ee2109c%7C%7Ctc.v10.cache2.c.youtube.com%2C5%7Chttp%3A%2F%2Fv22.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B%26factor%3D1.25%26id%3Df6c2540f1ee2109c%7C%7Ctc.v22.cache5.c.youtube.com&rv.2.rating=0.0&rv.7.title=Linux+song&cc_load_policy=1&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1BH7poMtPVU&rv.1.id=1BH7poMtPVU&rv.6.title=Richard+Stallman+%28as+St+IGNUcius%29+%3A+Emacs+vs+Vi&rv.4.length_seconds=179&rv.7.view_count=11041&rv.3.title=Richard+Stallman+Eats+Something+From+His+Foot&length_seconds=121&enablejsapi=1&video_id=9sJUDx7iEJw&plid=AASMPYYPaHIdLBHL&rv.5.rating=4.44871794872&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS-xb1miTjoE&rv.1.author=robertgarrigos&rv.1.rating=4.59090909091&rv.4.title=Free+Software+Song&rv.5.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FxSkCny-HtTw%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl107009.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl101609.swf&rv.0.title=Windows+Vista+vs.+Windows+XP&rv.7.rating=3.77049180328&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI25UeVXrEHQ&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy1DFwtR755I&ttslisturl=%2Fajax_timedtext%3FvideoId%3D9sJUDx7iEJw%26type%3Dlist&cc_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fsubtitle_module-vfl175721.swf&ttstrackurl=%2Fajax_timedtext%3FvideoId%3D9sJUDx7iEJw%26type%3Dtrack%26lang%3Den%26name%3D&rv.4.view_count=26213&playerh=640&rv.1.view_count=31613&rv.5.title=The+Free+Software+Song&rv.6.rating=4.77168949772&sk=M-UAXOUASB1KXscjXWpLRyZTq3HItGYlC&rv.1.title=Richard+Stallman+-+Free+Software+Song&playerw=360&rv.1.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2F1BH7poMtPVU%2Fdefault.jpg&rv.3.length_seconds=142&rv.5.author=pmcgovern\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"bgcolor\" value=\"#000000\">\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tZum Ansehen dieses Videos benötigst du den Adobe Flash Player. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Player von Adobe herunterladen<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n<\/object>" : "<embed height=\"38" + "5\" width=\"64" + "0\" type=\"application\/x-shockwave-flash\" src=\"http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl178359.swf\" id=\"movie_player\" flashvars=\"rv.7.length_seconds=12&rv.2.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2Fy1DFwtR755I%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHELrxLdP85c&rv.0.view_count=969253&enablecsi=1&rv.2.title=Young+Richard+Stallman&rv.6.author=bfb72&rv.3.view_count=118660&rv.0.length_seconds=3119&rv.4.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FS-xb1miTjoE%2Fdefault.jpg&fmt_url_map=34%7Chttp%3A%2F%2Fv10.lscache2.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43%26factor%3D1.25%26id%3Df6c2540f1ee2109c%2C5%7Chttp%3A%2F%2Fv22.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B%26factor%3D1.25%26id%3Df6c2540f1ee2109c&csi_page_type=watch&keywords=linux%2Crichard%2Cstallman%2Cfree%2Csoftware%2Csong%2Cazathor%2Cruddy%2Ccatalan%2Cespa%C3%B1a%2Cjulian%2Ccoccia&cr=DE&cc3_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fsubtitles3_module-vfl178359.swf&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FS76pHIYx3ik%2Fdefault.jpg&rv.3.rating=4.45054945055&fmt_list=34%2F320x240%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=b6YCUWlbBMo&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db6YCUWlbBMo&rv.0.rating=4.15180349635&rv.4.rating=4.62337662338&rv.5.id=xSkCny-HtTw&rv.2.view_count=34092&rv.0.featured=1&rv.0.id=HELrxLdP85c&cc_font=Arial+Unicode+MS%2C+arial%2C+verdana%2C+_sans&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxSkCny-HtTw&rv.6.length_seconds=192&timestamp=1280095776&rv.0.author=lockergnome&cc_asr=1&rv.2.author=pauloslomp&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS76pHIYx3ik&fmt_map=34%2F320x240%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=de_DE&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vfl178359.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FHELrxLdP85c%2Fdefault.jpg&rv.5.length_seconds=169&rv.7.author=kyrlen&rv.3.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FI25UeVXrEHQ%2Fdefault.jpg&rv.5.view_count=51414&tts_watch_url=%2Fwatch_ajax%3Faction_get_caption_track_all%26v%3D9sJUDx7iEJw&rv.1.length_seconds=118&rv.3.id=I25UeVXrEHQ&rv.2.id=y1DFwtR755I&rv.2.length_seconds=30&t=vjVQa1PpcFPYl2BkiNiM8m-gE_vLqvaW4jDwWf7rmD0%3D&rv.6.id=S76pHIYx3ik&vq=auto&rv.6.view_count=48106&rv.3.author=jrearick&rv.4.id=S-xb1miTjoE&ttsurl=http%3A%2F%2Fvideo.google.com%2Ftimedtext%3Fsparams%3Dcaps%252Cexpire%252Cv%26expire%3D1280120400%26caps%3Dasr%26key%3Dyttt1%26signature%3DC65995E474A8657E658DA21A11F686C5E22DA6EA.92B1EC779EA1BB653876A4DCB49C4BFAF03851E1&fexp=907111&rv.4.author=darkapitude&rv.7.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2Fb6YCUWlbBMo%2Fdefault.jpg&allow_embed=1&fmt_stream_map=34%7Chttp%3A%2F%2Fv10.lscache2.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43%26factor%3D1.25%26id%3Df6c2540f1ee2109c%7C%7Ctc.v10.cache2.c.youtube.com%2C5%7Chttp%3A%2F%2Fv22.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907111%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280120400%26key%3Dyt1%26signature%3DC546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B%26factor%3D1.25%26id%3Df6c2540f1ee2109c%7C%7Ctc.v22.cache5.c.youtube.com&rv.2.rating=0.0&rv.7.title=Linux+song&cc_load_policy=1&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1BH7poMtPVU&rv.1.id=1BH7poMtPVU&rv.6.title=Richard+Stallman+%28as+St+IGNUcius%29+%3A+Emacs+vs+Vi&rv.4.length_seconds=179&rv.7.view_count=11041&rv.3.title=Richard+Stallman+Eats+Something+From+His+Foot&length_seconds=121&enablejsapi=1&video_id=9sJUDx7iEJw&plid=AASMPYYPaHIdLBHL&rv.5.rating=4.44871794872&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS-xb1miTjoE&rv.1.author=robertgarrigos&rv.1.rating=4.59090909091&rv.4.title=Free+Software+Song&rv.5.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FxSkCny-HtTw%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl107009.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl101609.swf&rv.0.title=Windows+Vista+vs.+Windows+XP&rv.7.rating=3.77049180328&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI25UeVXrEHQ&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy1DFwtR755I&ttslisturl=%2Fajax_timedtext%3FvideoId%3D9sJUDx7iEJw%26type%3Dlist&cc_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fsubtitle_module-vfl175721.swf&ttstrackurl=%2Fajax_timedtext%3FvideoId%3D9sJUDx7iEJw%26type%3Dtrack%26lang%3Den%26name%3D&rv.4.view_count=26213&playerh=640&rv.1.view_count=31613&rv.5.title=The+Free+Software+Song&rv.6.rating=4.77168949772&sk=M-UAXOUASB1KXscjXWpLRyZTq3HItGYlC&rv.1.title=Richard+Stallman+-+Free+Software+Song&playerw=360&rv.1.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2F1BH7poMtPVU%2Fdefault.jpg&rv.3.length_seconds=142&rv.5.author=pmcgovern\" allowscriptaccess=\"always\" allowfullscreen=\"true\" bgcolor=\"#000000\" \/><noembed>\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tZum Ansehen dieses Videos benötigst du den Adobe Flash Player. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Player von Adobe herunterladen<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n<\/noembed>";
+				document.write(swfHTML);
+		})();
+	</script>
+
+			</div>
+			<!-- begin videoextra section -->
+			<!-- end videoextra section -->
+		</div>
+	</div>
+	<!-- begin contentbottom section -->
+	<div id="watch-main-container">
+		<div id="watch-main">
+			<div id="watch-panel">
+				<div id="watch-info" class="yt-rounded">
+								<div id="watch-views" class="watch-expander yt-uix-expander yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleStats">
+		<div class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-expander-head-content"><strong class="watch-view-count">185.838</strong><br>Aufrufe</span>
+
+
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<button class="yt-uix-expander-arrow master-sprite" style="visibility: hidden" onclick="return false;"></button>
+			<strong class="watch-view-count">185.838</strong><br>Aufrufe
+		</div>
+	</div>
+
+
+
+	
+	<div id="watch-description" class="watch-expander yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleDescription">
+		
+		<div  class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<div class="watch-expander-head-content">
+					
+	<div class="watch-info-description">
+		<div class="watch-info-description-head">
+		
+		<a class="watch-description-username" href="/user/AZATHOR" onclick="yt.events.stopPropagation(event);"><strong>AZATHOR</strong></a>
+		
+			<span class="watch-description-separator">|</span>
+				<span id="eow-date" class="watch-video-date">11. Dezember 2006</span>
+
+	
+
+		</div>
+	
+			
+		
+	<p id="eow-description-short" >Richard Stallman en Ecuador, cantando el temita, del free software, grabado p...</p>
+
+
+	</div>
+
+			</div>
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<div id="watch-description-body">
+					
+	<div class="watch-info-description">
+		<div class="watch-info-description-head">
+		
+		<a class="watch-description-username" href="/user/AZATHOR" onclick="yt.events.stopPropagation(event);"><strong>AZATHOR</strong></a>
+		
+			<span class="watch-description-separator">|</span>
+				<span id="eow-date" class="watch-video-date">11. Dezember 2006</span>
+
+	
+
+		</div>
+	
+			
+		
+	<p id="eow-description" >Richard Stallman en Ecuador, cantando el temita, del free software, grabado por Julian Coccia.</p>
+
+
+				<div id="watch-description-extras">
+		<h4>Kategorie:</h4>
+			<p id="eow-category"><a href="/videos?c=10">Musik</a></p>
+
+		
+	
+			<h4>Tags:</h4>
+				<ul id="eow-tags" class="watch-info-tag-list">
+		<li><a href="/results?search_query=linux&amp;search=tag">linux</a></li>
+		<li><a href="/results?search_query=richard&amp;search=tag">richard</a></li>
+		<li><a href="/results?search_query=stallman&amp;search=tag">stallman</a></li>
+		<li><a href="/results?search_query=free&amp;search=tag">free</a></li>
+		<li><a href="/results?search_query=software&amp;search=tag">software</a></li>
+		<li><a href="/results?search_query=song&amp;search=tag">song</a></li>
+		<li><a href="/results?search_query=azathor&amp;search=tag">azathor</a></li>
+		<li><a href="/results?search_query=ruddy&amp;search=tag">ruddy</a></li>
+		<li><a href="/results?search_query=catalan&amp;search=tag">catalan</a></li>
+		<li><a href="/results?search_query=espa%C3%B1a&amp;search=tag">españa</a></li>
+		<li><a href="/results?search_query=julian&amp;search=tag">julian</a></li>
+		<li><a href="/results?search_query=coccia&amp;search=tag">coccia</a></li>
+	</ul>
+
+
+
+
+	</div>
+
+	</div>
+
+			</div>
+		</div>
+		
+
+	</div>
+	
+	<div id="watch-stats-container" class="hid">
+		<div id="watch-stats" class="yt-rounded">
+			<div id="watch-stats-loading">Wird geladen...</div>
+		</div>
+	</div>
+	
+
+	<div class="clearR"></div>
+
+				</div>
+				<div id="watch-actions">
+						<div id="watch-actions-left">
+		<button title="Mag ich" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-like" data-button-action="yt.www.watch.watch5.like"><img class="yt-uix-button-icon-watch-like" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Mag ich</span></button>
+		&nbsp;
+		<button title="Mag ich nicht" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-unlike" data-button-action="yt.www.watch.watch5.unlike"><img class="yt-uix-button-icon-watch-unlike" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+			&nbsp;			<div class="action-bar-ratings-stats yt-uix-tooltip" title="Gefällt 703, gefällt 103 nicht">
+			<div class="likes-bar" style="width:100.0%"></div>
+			<div class="dislikes-bar" style="width:14.6514935989%"></div>
+		</div>
+
+	</div>
+	<div id="watch-actions-right">
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-embed" onclick=";return false;" title="Einbettungscode für Video abrufen" data-button-action="yt.www.watch.watch5.embed"><span class="yt-uix-button-content">&lt;Einbetten&gt;</span></button>
+		<span class="watch-flagging">
+			&nbsp;
+			<button title="Als unangemessen melden" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-flag" data-button-action="yt.www.watch.watch5.flag"><img class="yt-uix-button-icon-watch-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		</span>
+	</div>
+	<div id="watch-actions-center">
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-playlists-button" onclick=";return false;" title="In Favoriten oder Playlist speichern" data-button-action="yt.www.watch.watch5.loadPlaylists"><span class="yt-uix-button-content">Speichern in</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""></button>
+		&nbsp;
+		<button title="Dieses Video weiterleiten" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-share" data-button-action="yt.www.watch.watch5.share"><img class="yt-uix-button-icon-watch-expand-share" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Weiterleiten</span></button>
+	</div>
+	
+	<div id="watch-actions-share" class="hid">
+		<div class="watch-actions-share">
+			<div class="watch-actions-share-head">
+				<img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="watch-actions-share-link-icon">
+				<input class="watch-actions-share-input" type="text">
+				<div class="watch-actions-share-options" onclick="yt.www.watch.watch5.updateShareURL();">
+					<label>
+						<input class="watch-actions-share-short" type="checkbox">
+Kurze URL
+					</label>
+				</div>
+			</div>
+			<button type="button" class="watch-share-button yt-uix-button" onclick="yt.window.popup('/share_inline?v=9sJUDx7iEJw', {height:350, width:450, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_email" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">E-Mail</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('MYSPACE', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/www.myspace.com\/Modules\/PostTo\/Pages\/?t=Richard%20Stallman%20Free%20software%20Song&amp;c=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;u=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;l=1', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_myspace" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">MySpace</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('FACEBOOK', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/www.facebook.com\/sharer.php?u=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;t=Richard%20Stallman%20Free%20software%20Song', {height:440, width:620, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_facebook" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Facebook</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('TWITTER', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/twitter.com\/home?status=Dieses%20Video%20musst%20du%20dir%20ansehen%21%20--%20Richard%20Stallman%20Free%20software%20Song%20http%3A\/\/youtu.be\/9sJUDx7iEJw', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_twitter" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Twitter</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('ORKUT', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/www.orkut.com\/FavoriteVideos.aspx?u=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_orkut" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">orkut</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('LIVE SPACES', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/spaces.live.com\/BlogIt.aspx?Title=YouTube - Richard%20Stallman%20Free%20software%20Song&amp;SourceURL=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;description=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_livespaces" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Live Spaces</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BLOGGER', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/www.blogger.com\/blog-this.g?n=Richard%20Stallman%20Free%20software%20Song&amp;source=youtube&amp;b=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/9sJUDx7iEJw%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;eurl=http%3A\/\/i2.ytimg.com\/vi\/9sJUDx7iEJw\/hqdefault.jpg', {height:468, width:768, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_blogger" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Blogger</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BUZZ', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/www.google.com\/buzz\/post?url=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_buzz" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Buzz</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('DIGG', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/digg.com\/submit?phase=2&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;title=Richard%20Stallman%20Free%20software%20Song&amp;bodytext=Richard%20Stallman%20en%20Ecuador%2C%20cantando%20el%20temita%2C%20del%20free%20software%2C%20grabado%20por%20Julian%20Coccia.&amp;topic=videos_music', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_digg" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Digg</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('YIGG', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/yigg.de\/neu?exturl=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;exttitle=Richard%20Stallman%20Free%20software%20Song', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_yigg" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">YiGG</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('DELICIOUS', '9sJUDx7iEJw', 'de_DE');yt.window.popup('http:\/\/del.icio.us\/post?noui&amp;v=4&amp;jump=close&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3D9sJUDx7iEJw&amp;title=Richard%20Stallman%20Free%20software%20Song&amp;partner=youtube', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_delicious" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">del.icio.us</span></button>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+
+				</div>
+				<div id="watch-actions-area-container" class="collapsed">
+					<div id="watch-actions-area" class="yt-rounded">
+Wird geladen...
+					</div>
+				</div>
+				<div id="watch-actions-close" class="hid">
+					<div class="close"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="master-sprite close-button" onclick="yt.www.watch.watch5.hide();"/></div>
+				</div>
+				<div id="watch-actions-logged-out" class="hid">
+						<strong>Jetzt <a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&hl=en_US&ltmpl=sso">anmelden</a> oder ein neues <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&ltmpl=sso&hl=de_DE&service=youtube">Konto erstellen</a>!
+</strong>	
+
+				</div>
+				<div id="watch-discussion">
+						<div id="comments-post">
+				<form id="comments-post-form"
+						class="input-collapsed">
+					<textarea class="comments-textarea"
+							onfocus="_addclass(_gel('comments-post-form'), 'input-focused');"
+							onblur="_removeclass(_gel('comments-post-form'), 'input-focused');">
+Auf dieses Video antworten...
+					</textarea>
+					
+	
+	
+	
+	<div  id="comments-post-form-alert" class="yt-alert yt-alert-warn yt-rounded">
+			<img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="icon master-sprite" alt="Benachrichtigungssymbol">
+		
+		<div  class="yt-alert-content">
+					<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&amp;hl=en_US&amp;ltmpl=sso">Melde dich in deinem Konto an</a> oder <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&amp;ltmpl=sso&amp;hl=de_DE&amp;service=youtube">melde dich jetzt bei YouTube an</a>, um einen Kommentar zu posten!
+
+		</div>
+		
+	</div>
+
+					<div class="clearR"></div>
+				</form>
+					<a id="watch-comments-sigin" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253D9sJUDx7iEJw&amp;hl=en_US&amp;ltmpl=sso" style="display: none"></a>
+	</div>
+
+							<div id="comments-view"
+				data-type="highlights"
+				data-owner-viewing=""
+				data-disallow-ratings="False">
+
+						
+			<div class="comments-section">
+				<h4>Kommentare mit den höchsten Bewertungen</h4>
+				<ul class="comment-list">
+									<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2fEW4yVslOIwnCJRZHtx5GTyLY34bnHLss"
+			data-score="49"
+			data-author="riotiticaca"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="R"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/riotiticaca" title="riotiticaca">riotiticaca</a>
+			</div>
+			<div>
+				<span class="time">vor 5 Monaten</span>
+					<span class="comments-rating-positive">49 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					I didn&#39;t find it silly. He is just singing the open source anthem. There are many morons commenting out here, that don&#39;t have an idea of the hacker&#39;s spirit and﻿ culture.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/riotiticaca">riotiticaca</a>
+					<span class="time">vor 5 Monaten</span>
+						<span class="comments-rating-positive">49 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2eML0Xm82F7Hz-iAPTrmpvwVklJ0cxU_4k"
+			data-score="40"
+			data-author="msh1044"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="R"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/msh1044" title="msh1044">msh1044</a>
+			</div>
+			<div>
+				<span class="time">vor 5 Monaten</span>
+					<span class="comments-rating-positive">40 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					free software anthem, not open source anthem ;) richard stallman is going to kick your but if he finds out you ever mentioned this﻿ :p :p
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/msh1044">msh1044</a>
+					<span class="time">vor 5 Monaten</span>
+						<span class="comments-rating-positive">40 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+				</div>
+		</div>
+	</li>
+ 
+
+				</ul>
+			</div>
+		
+		
+			<div class="comments-section">
+				<a class="comments-section-see-all" href="/video_response_view_all?v=9sJUDx7iEJw">Alles anzeigen</a>
+				<h4>Videoantworten</h4>
+					<ul class="video-list">
+									<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=yoczc71ZUMI&amp;feature=watch_response">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-yoczc71ZUMI-6419788"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/yoczc71ZUMI/default.jpg" onclick="ieThumbEvent(event, this); " title="..."></span><span class="video-time">1:12</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-yoczc71ZUMI-6419788', null, 'yoczc71ZUMI', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="...">...</span><span class="stat">46 Aufrufe</span><span class="stat">Glancalar</span></a></li>
+
+
+			<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=z5eLn1QMJS0&amp;feature=watch_response">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-z5eLn1QMJS0-5087232"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/z5eLn1QMJS0/default.jpg" onclick="ieThumbEvent(event, this); " title="GNU/Stallmans - The Free Software Song"></span><span class="video-time">2:49</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-z5eLn1QMJS0-5087232', null, 'z5eLn1QMJS0', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="GNU/Stallmans - The Free Software Song">GNU/Stallmans - The Free Software Song</span><span class="stat">13.962 Aufrufe</span><span class="stat">arranmc182</span></a></li>
+
+
+
+					</ul>
+			</div>
+		
+				
+			<div class="comments-section">
+				<a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw">Alles anzeigen</a>
+					<h4>Alle Kommentare (454)</h4>
+				<ul class="comment-list" >
+									<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2dzsGkqAYPmsYn74tUhOFIOXy3dcbymZfQ"
+			data-score="0"
+			data-author="Lawdrun"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/Lawdrun" title="Lawdrun">Lawdrun</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Tag</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=mikepep33">@mikepep33</a> maximum brofist﻿
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/Lawdrun">Lawdrun</a>
+					<span class="time">vor 1 Tag</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2dLvpPi5epYY1OljFOm1kdQvW0vbPii2cc"
+			data-score="0"
+			data-author="Lawdrun"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/Lawdrun" title="Lawdrun">Lawdrun</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Tag</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=awarddd">@awarddd</a> suck my dick﻿
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/Lawdrun">Lawdrun</a>
+					<span class="time">vor 1 Tag</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2dr8HTvhOxJpdXcVgt8KlySj8AsJ0WdjcI"
+			data-score="0"
+			data-author="YetAnotherBadYT"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/YetAnotherBadYT" title="YetAnotherBadYT">YetAnotherBadYT</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					I don&#39;t get the GNU/Linux thing.<br />If you want to credit people, that&#39;s great, but my Linux system also runs X.org, Firefox and a multitude of other software. Should I refer to it as GNU/X.org/GNOME/Mozilla/Linux?<br />And why not call﻿ FreeBSD GNU/FreeBSD because FreeBSD uses GNU utilities, right?<br />Silly richard.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/YetAnotherBadYT">YetAnotherBadYT</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2d7ssV8e_XLxoOtdjXu1FuqthzAqvyy3P0"
+			data-score="2"
+			data-author="KybernetikKollektiv"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/KybernetikKollektiv" title="KybernetikKollektiv">KybernetikKollektiv</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+					<span class="comments-rating-positive">2 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					Peace!﻿
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/KybernetikKollektiv">KybernetikKollektiv</a>
+					<span class="time">vor 1 Woche</span>
+						<span class="comments-rating-positive">2 <img class="master-sprite comments-rating-thumbs-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif"/></span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2d0JaIkKYNLXjdP3GQwc-x5yVNJ86zh8Co"
+			data-score="0"
+			data-author="loniousmonk"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/loniousmonk" title="loniousmonk">loniousmonk</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=loniousmonk">@loniousmonk</a> Linux is﻿ normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called &quot;Linux&quot; distributions are really distributions of GNU/Linux.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/loniousmonk">loniousmonk</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2dYNbuMqvoHl2G7EYL-o6grVFoVLAI2Uiw"
+			data-score="0"
+			data-author="loniousmonk"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/loniousmonk" title="loniousmonk">loniousmonk</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=loniousmonk">@loniousmonk</a> There really is a Linux, and these people are using it, but it is just a part of the system they use. Linux is the kernel: the program in the system that﻿ allocates the machine&#39;s resources to the other programs that you run. The kernel is an essential part﻿ of an operating system, but useless by itself; it can only function in the context of a complete operating system.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/loniousmonk">loniousmonk</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2f71g-UT1huT_T40GGmtNMYlyVC0Y7vdOA"
+			data-score="0"
+			data-author="loniousmonk"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="True"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/loniousmonk" title="loniousmonk">loniousmonk</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+				<div class="comment-show-hide">
+					<em>Kommentar entfernt</em>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2f0ruDVEd_hZbDv4_JF-wYH95jdrTIl-UM"
+			data-score="0"
+			data-author="loniousmonk"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/loniousmonk" title="loniousmonk">loniousmonk</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=loniousmonk">@loniousmonk</a> Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today﻿ is often called &quot;Linux&quot;, and many of its users are not aware that it is basically the GNU system, developed by the GNU Project.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/loniousmonk">loniousmonk</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2fezKFP-4EwdRkDOSaMaA4UVjnRoqjyE1w"
+			data-score="0"
+			data-author="loniousmonk"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/loniousmonk" title="loniousmonk">loniousmonk</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					I&#39;d just like to interject for a moment. What you&#39;re referring to as Linux, is in fact, GNU/Linux, or as I&#39;ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful﻿ by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/loniousmonk">loniousmonk</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="_2LfB5maM2dSDhDSeHnWdQFlLUe4D4bi0C9cwyAETs0"
+			data-score="0"
+			data-author="awarddd"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/awarddd" title="awarddd">awarddd</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					what a﻿ nerd!
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/awarddd">awarddd</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+
+				</ul>
+			</div>
+		
+					<div class="comments-section">
+			<a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw">Alle Kommentare anzeigen &raquo;</a>
+			<div class="comments-pagination">
+						
+	
+		<div class="yt-uix-pager">
+
+
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=1" type="button" class="yt-uix-pager-selected yt-uix-button" onclick="return false;;window.location.href=this.getAttribute('href');return false;" data-page="1"><span class="yt-uix-button-content">1</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=2" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="2"><span class="yt-uix-button-content">2</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=3" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="3"><span class="yt-uix-button-content">3</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=4" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="4"><span class="yt-uix-button-content">4</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=5" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="5"><span class="yt-uix-button-content">5</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=6" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="6"><span class="yt-uix-button-content">6</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=9sJUDx7iEJw&amp;page=7" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="7"><span class="yt-uix-button-content">7</span></button>&nbsp;
+
+					<a href="/comment_servlet?all_comments=1&v=9sJUDx7iEJw&page=2" class="yt-uix-pager-link" data-page="2" onclick="return yt.www.comments.watch5.showPageFromElement(this);">Weiter</a>
+
+		</div>
+
+
+			</div>
+	</div>
+
+		</div>
+			<div id="comments-actions">
+		<div>
+<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.comments.watch5.reply"><img class="yt-uix-button-icon-watch-comment-reply" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Antworten</span></button><button title="Positiv abstimmen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-up" data-vote-increment="1" data-button-action="yt.www.comments.watch5.vote"><img class="yt-uix-button-icon-watch-comment-vote-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button><button title="Negativ abstimmen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-down" data-vote-increment="-1" data-button-action="yt.www.comments.watch5.vote"><img class="yt-uix-button-icon-watch-comment-vote-down" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Als Spam melden" data-button-action="yt.www.comments.watch5.flag"><img class="yt-uix-button-icon-watch-comment-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>		</div>
+		<div>
+<button type="button" id="watch-comment-block-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.block"><span class="yt-uix-button-content">Nutzer blockieren</span></button><button type="button" id="watch-comment-unblock-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.unblock"><span class="yt-uix-button-content">Blockierung des Nutzers aufheben</span></button><button onclick=";return false;" title="Entfernen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-remove-link" ><img class="yt-uix-button-icon-watch-comment-remove" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>		</div>
+	</div>
+
+		<div id="comments-loading" class="hid">Wird geladen...</div>
+
+				</div>
+			</div>
+
+			<div id="watch-sidebar">
+				
+
+	
+
+			<div class="watch-passive-list yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed watch-module watch-module-expandable hid"
+				id="watch-passive-QL"
+				data-expander-action="yt.www.watch.watch5.togglePassiveList"
+				data-expander-ajax-link="/list_ajax?action_get_quicklist=1">
+		<h3 class="yt-uix-expander-head watch-module-head yt-rounded-top yt-rounded-bottom">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-module-expanded-title-wrapper"><span class="watch-module-expanded-title">
+Warteschlange (<span id="watch-passive-QL-count">0</span>)
+			</span></span>
+		</h3>
+		<div class="yt-uix-expander-body watch-module-body yt-rounded-bottom">
+			<div id="watch-passive-QL-body" class="watch-module-body-inner" onscroll="yt.net.delayed.load('next-list');">
+				<div id="watch-passive-QL-body-loading" class="watch-passive-list-body-loading">Wird geladen...</div>
+			</div>
+</div>
+</div>
+
+	
+	<div class="watch-module">
+		<div class="watch-module-body">
+			
+
+			<ul id="watch-related" class="video-list">
+						<li class="video-list-item  watch-ppv-vid" ><a class="video-list-item-link" href="/watch?v=HELrxLdP85c&amp;feature=fvw">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-HELrxLdP85c-540109"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/HELrxLdP85c/default.jpg" onclick="ieThumbEvent(event, this); " title="Windows Vista vs. Windows XP"></span><span class="video-time">51:59</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-HELrxLdP85c-540109', null, 'HELrxLdP85c', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Windows Vista vs. Windows XP">Windows Vista vs. Windows XP</span><span class="stat">969.253 Aufrufe</span><span class="stat alt">Vorgestelltes Video</span><span class="stat">lockergnome</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=1BH7poMtPVU&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-1BH7poMtPVU-9042485"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/1BH7poMtPVU/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman - Free Software Song"></span><span class="video-time">1:58</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-1BH7poMtPVU-9042485', null, '1BH7poMtPVU', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman - Free Software Song">Richard Stallman - Free Software Song</span><span class="stat">31.613 Aufrufe</span><span class="stat">robertgarrigos</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=y1DFwtR755I&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-y1DFwtR755I-5488452"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/y1DFwtR755I/default.jpg" onclick="ieThumbEvent(event, this); " title="Young Richard Stallman"></span><span class="video-time">0:30</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-y1DFwtR755I-5488452', null, 'y1DFwtR755I', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Young Richard Stallman">Young Richard Stallman</span><span class="stat">34.092 Aufrufe</span><span class="stat">pauloslomp</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=I25UeVXrEHQ&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-I25UeVXrEHQ-4100348"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/I25UeVXrEHQ/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman Eats Something From His Foot"></span><span class="video-time">2:22</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-I25UeVXrEHQ-4100348', null, 'I25UeVXrEHQ', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman Eats Something From His Foot">Richard Stallman Eats Something From His Foot</span><span class="stat">118.660 Aufrufe</span><span class="stat">jrearick</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=S-xb1miTjoE&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-S-xb1miTjoE-492029"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/S-xb1miTjoE/default.jpg" onclick="ieThumbEvent(event, this); " title="Free Software Song"></span><span class="video-time">2:59</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-S-xb1miTjoE-492029', null, 'S-xb1miTjoE', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Free Software Song">Free Software Song</span><span class="stat">26.213 Aufrufe</span><span class="stat">darkapitude</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=xSkCny-HtTw&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-xSkCny-HtTw-8770416"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/xSkCny-HtTw/default.jpg" onclick="ieThumbEvent(event, this); " title="The Free Software Song"></span><span class="video-time">2:49</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-xSkCny-HtTw-8770416', null, 'xSkCny-HtTw', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="The Free Software Song">The Free Software Song</span><span class="stat">51.414 Aufrufe</span><span class="stat">pmcgovern</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=S76pHIYx3ik&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-S76pHIYx3ik-9142493"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/S76pHIYx3ik/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman (as St IGNUcius) : Emacs vs Vi"></span><span class="video-time">3:12</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-S76pHIYx3ik-9142493', null, 'S76pHIYx3ik', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman (as St IGNUcius) : Emacs vs Vi">Richard Stallman (as St IGNUcius) : Emacs vs Vi</span><span class="stat">48.106 Aufrufe</span><span class="stat">bfb72</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=b6YCUWlbBMo&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-b6YCUWlbBMo-9684311"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/b6YCUWlbBMo/default.jpg" onclick="ieThumbEvent(event, this); " title="Linux song"></span><span class="video-time">0:12</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-b6YCUWlbBMo-9684311', null, 'b6YCUWlbBMo', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Linux song">Linux song</span><span class="stat">11.041 Aufrufe</span><span class="stat">kyrlen</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=SP-gN1zoI28&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-SP-gN1zoI28-4493489"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/SP-gN1zoI28/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman Guantanamero"></span><span class="video-time">2:40</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-SP-gN1zoI28-4493489', null, 'SP-gN1zoI28', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman Guantanamero">Richard Stallman Guantanamero</span><span class="stat">35.081 Aufrufe</span><span class="stat">AZATHOR</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=a9fqlI9B6QU&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-a9fqlI9B6QU-2463474"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/a9fqlI9B6QU/default.jpg" onclick="ieThumbEvent(event, this); " title="CNET Insider Secrets - Open Source Free Software"></span><span class="video-time">3:19</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-a9fqlI9B6QU-2463474', null, 'a9fqlI9B6QU', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="CNET Insider Secrets - Open Source Free Software">CNET Insider Secrets - Open Source Free Software</span><span class="stat">111.783 Aufrufe</span><span class="stat">stephenjudge</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=4Rbzm1GgIyE&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-4Rbzm1GgIyE-207456"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/4Rbzm1GgIyE/default.jpg" onclick="ieThumbEvent(event, this); " title="Free Software Song (animación con subtitulos español)"></span><span class="video-time">1:49</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-4Rbzm1GgIyE-207456', null, '4Rbzm1GgIyE', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Free Software Song (animación con subtitulos español)">Free Software Song (animación con subtitulos es...</span><span class="stat">74.922 Aufrufe</span><span class="stat">cybervideos</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=uJi2rkHiNqg&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-uJi2rkHiNqg-580697"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/uJi2rkHiNqg/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman - What is free software?"></span><span class="video-time">2:17</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-uJi2rkHiNqg-580697', null, 'uJi2rkHiNqg', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman - What is free software?">Richard Stallman - What is free software?</span><span class="stat">44.250 Aufrufe</span><span class="stat">RobinGood</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=b3uX5XwdN_8&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-b3uX5XwdN_8-3867318"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/b3uX5XwdN_8/default.jpg" onclick="ieThumbEvent(event, this); " title="Stallman interview on free software"></span><span class="video-time">9:30</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-b3uX5XwdN_8-3867318', null, 'b3uX5XwdN_8', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Stallman interview on free software">Stallman interview on free software</span><span class="stat">41.076 Aufrufe</span><span class="stat">ardicor</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=z5eLn1QMJS0&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-z5eLn1QMJS0-1695047"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/z5eLn1QMJS0/default.jpg" onclick="ieThumbEvent(event, this); " title="GNU/Stallmans - The Free Software Song"></span><span class="video-time">2:49</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-z5eLn1QMJS0-1695047', null, 'z5eLn1QMJS0', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="GNU/Stallmans - The Free Software Song">GNU/Stallmans - The Free Software Song</span><span class="stat">13.962 Aufrufe</span><span class="stat">arranmc182</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=yK9MNPlwr2k&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-yK9MNPlwr2k-7515253"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/yK9MNPlwr2k/default.jpg" onclick="ieThumbEvent(event, this); " title="Fenster - The Free Software Song"></span><span class="video-time">3:00</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-yK9MNPlwr2k-7515253', null, 'yK9MNPlwr2k', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Fenster - The Free Software Song">Fenster - The Free Software Song</span><span class="stat">11.982 Aufrufe</span><span class="stat">DanieLaixer</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=Pube5Aynsls&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-Pube5Aynsls-7296668"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/Pube5Aynsls/default.jpg" onclick="ieThumbEvent(event, this); " title="Soulja Boy dance, MIT style"></span><span class="video-time">0:38</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-Pube5Aynsls-7296668', null, 'Pube5Aynsls', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Soulja Boy dance, MIT style">Soulja Boy dance, MIT style</span><span class="stat">418.341 Aufrufe</span><span class="stat">moonslush</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=cnJ-rGBX9Es&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-cnJ-rGBX9Es-4236799"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/cnJ-rGBX9Es/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman y el software libre en las escuelas"></span><span class="video-time">6:12</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-cnJ-rGBX9Es-4236799', null, 'cnJ-rGBX9Es', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman y el software libre en las escuelas">Richard Stallman y el software libre en las esc...</span><span class="stat">26.464 Aufrufe</span><span class="stat">nosferatuventure</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=2-ZJKOpkAbQ&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-2-ZJKOpkAbQ-4228474"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/2-ZJKOpkAbQ/default.jpg" onclick="ieThumbEvent(event, this); " title="Richard Stallman - Free Software song"></span><span class="video-time">0:28</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-2-ZJKOpkAbQ-4228474', null, '2-ZJKOpkAbQ', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Richard Stallman - Free Software song">Richard Stallman - Free Software song</span><span class="stat">15.169 Aufrufe</span><span class="stat">terkoto</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=YsO06xXNqPo&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-YsO06xXNqPo-1204815"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/YsO06xXNqPo/default.jpg" onclick="ieThumbEvent(event, this); " title="Write in C"></span><span class="video-time">3:15</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-YsO06xXNqPo-1204815', null, 'YsO06xXNqPo', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Write in C">Write in C</span><span class="stat">14.021 Aufrufe</span><span class="stat">BlueJester82</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=irKJpFIHUxA&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-irKJpFIHUxA-3616444"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/irKJpFIHUxA/default.jpg" onclick="ieThumbEvent(event, this); " title="Toledo en campaña aunque lo niegue"></span><span class="video-time">3:36</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-irKJpFIHUxA-3616444', null, 'irKJpFIHUxA', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Toledo en campaña aunque lo niegue">Toledo en campaña aunque lo niegue</span><span class="stat">347 Aufrufe</span><span class="stat">redyzcosmo</span></a></li>
+
+
+			</ul>
+		</div>
+	</div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		<form method="post" action="/watch_ajax" name="likeForm" class="hid">
+		
+		<input type="hidden" name="action_like_video" value="1" />
+		<input type="hidden" name="video_id" value="9sJUDx7iEJw" />
+	</form>
+	<form method="post" action="/watch_ajax" name="unlikeForm" class="hid">
+		
+		<input type="hidden" name="action_dislike_video" value="1" />
+		<input type="hidden" name="video_id" value="9sJUDx7iEJw" />
+	</form>
+	<div id="watch-add-faves" style="display: none;">
+		<img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">
+		<span class="watch-action-response">
+Dieses Video wurde zu deinen <a href="/my_favorites">Favoriten</a> <strong>hinzugefügt</strong>.
+		</span>
+	</div>
+	<div id="watch-remove-faves" style="display: none;">
+		<span class="watch-action-response hid">
+Dieses Video wurde aus deinen <a href="/my_favorites">Favoriten</a> <strong>entfernt</strong>.
+		</span>
+		<span class="watch-action-response">
+Du magst dieses Video nicht. Danke für dein Feedback!
+		</span>
+	</div>
+
+	<div id="watch-search">
+	<div id="search-section-header">
+		<span id="watch-search-options" class="floatL"></span>
+		<span class="name">
+			<span class="search-query">&ldquo;<span id="watch-search-query"></span>&rdquo;</span>
+Ergebnisse
+			<span id="watch-search-count"></span>
+		</span>
+		<div class="clear"></div>
+	</div>
+	<div id="watch-search-body-loading">
+		<div class="watch-next-list-body-loading">Wird geladen...</div>
+	</div>
+	<div id="watch-search-body"></div>
+</div>
+
+	<div id="baseDiv" style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;"></div>
+	<!-- end contentbottom section -->
+	</div>
+
+	</div>
+	<div id="pagebottom">
+		<!-- begin pagebottom section -->
+		<div id="footer-container">
+				<div id="footer">
+		<ul class="footer-links">
+			<li><a href="http://www.google.com/support/youtube/bin/static.py?p=watch&amp;page=start.cs&amp;hl=de_DE">Hilfe</a>
+</li>
+			<li><a href="/t/about">Info</a></li>
+			<li><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=de_DE">Sicherheit</a></li>
+			<li><a href="/t/privacy_at_youtube">Datenschutz</a></li>
+			<li><a href="/t/terms">Nutzungsbedingungen</a></li>
+			<li><a href="/t/dmca_policy">Urheberrecht</a></li>
+				<li><a href="/t/uploaders_partners">Uploader und Partner</a></li>
+				<li><a href="http://code.google.com/apis/youtube/overview.html">Entwickler</a></li>
+			<li><a href="/t/advertising" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Advertising');">Werbung</a></li>
+		</ul>
+			<ul class="pickers">
+			<li>Sprache:
+	<a href="#" onclick="yt.www.masthead.loadPicker('language-picker', ''); return false;">Deutsch</a>
+</li>
+			<li>Standort:
+	<a href="#" onclick="yt.www.masthead.loadPicker('region-picker', ''); return false;">Deutschland</a>
+</li>
+			<li>Sicherer Modus:
+	<a href="#" onclick="yt.www.masthead.loadPicker('safetymode-picker', ''); return false;">
+
+Aus
+
+	</a>
+</li>
+	</ul>
+		<div id="picker-container"></div>
+	<div id="picker-loading" style="display: none">Wird geladen...</div>
+
+
+	</div>
+
+		</div>
+		<!-- end pagebottom section -->
+	</div>
+
+	</div>
+					<script id="www-core-js" src="http://s.ytimg.com/yt/jsbin/www-core-vfl178338.js"></script>
+
+
+	<!-- begin postpage section -->
+	<script>
+		if (window['gYouTubePlayerReady']) {
+			onYouTubePlayerReady();
+			yt.registerGlobal('gYouTubePlayerReady');
+		}
+		
+		yt.setConfig({
+			'XSRF_TOKEN': 'JYoC-g7Masdl24dwekuLUz3owsR8MTI4MDE4MjE3Ng==',
+			'XSRF_FIELD_NAME': 'session_token'
+		});
+		yt.pubsub.subscribe('init', yt.www.xsrf.populateSessionToken);
+
+
+		yt.setConfig('XSRF_QL_PAIR', 'session_token=j1hGFfggTWeqxEhtC8OWH9fVn-B8MA==');
+
+
+
+		yt.setConfig('LOGGED_IN', false);
+	</script>
+
+				<script>
+		(function() {
+			var swfConfig = {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl178359.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 12, "rv.2.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/y1DFwtR755I\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=HELrxLdP85c", "rv.0.view_count": 969253, "enablecsi": "1", "rv.2.title": "Young Richard Stallman", "rv.6.author": "bfb72", "rv.3.view_count": 118660, "rv.0.length_seconds": 3119, "rv.4.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/S-xb1miTjoE\/default.jpg", "fmt_url_map": "34|http:\/\/v10.lscache2.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43&factor=1.25&id=f6c2540f1ee2109c,5|http:\/\/v22.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B&factor=1.25&id=f6c2540f1ee2109c", "csi_page_type": "watch", "keywords": "linux,richard,stallman,free,software,song,azathor,ruddy,catalan,espa\u00c3\u00b1a,julian,coccia", "cr": "DE", "cc3_module": "http:\/\/s.ytimg.com\/yt\/swf\/subtitles3_module-vfl178359.swf", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/S76pHIYx3ik\/default.jpg", "rv.3.rating": "4.45054945055", "fmt_list": "34\/320x240\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "b6YCUWlbBMo", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=b6YCUWlbBMo", "rv.0.rating": "4.15180349635", "rv.4.rating": "4.62337662338", "rv.5.id": "xSkCny-HtTw", "rv.2.view_count": 34092, "rv.0.featured": 1, "rv.0.id": "HELrxLdP85c", "cc_font": "Arial Unicode MS, arial, verdana, _sans", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=xSkCny-HtTw", "rv.6.length_seconds": 192, "timestamp": 1280095776, "rv.0.author": "lockergnome", "cc_asr": 1, "rv.2.author": "pauloslomp", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=S76pHIYx3ik", "fmt_map": "34\/320x240\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "de_DE", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vfl178359.swf", "rv.0.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/HELrxLdP85c\/default.jpg", "rv.5.length_seconds": 169, "rv.7.author": "kyrlen", "rv.3.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/I25UeVXrEHQ\/default.jpg", "rv.5.view_count": 51414, "tts_watch_url": "\/watch_ajax?action_get_caption_track_all&v=9sJUDx7iEJw", "rv.1.length_seconds": 118, "rv.3.id": "I25UeVXrEHQ", "rv.2.id": "y1DFwtR755I", "rv.2.length_seconds": 30, "t": "vjVQa1PpcFPYl2BkiNiM8m-gE_vLqvaW4jDwWf7rmD0=", "rv.6.id": "S76pHIYx3ik", "vq": "auto", "rv.6.view_count": 48106, "rv.3.author": "jrearick", "rv.4.id": "S-xb1miTjoE", "ttsurl": "http:\/\/video.google.com\/timedtext?sparams=caps%2Cexpire%2Cv&expire=1280120400&caps=asr&key=yttt1&signature=C65995E474A8657E658DA21A11F686C5E22DA6EA.92B1EC779EA1BB653876A4DCB49C4BFAF03851E1", "fexp": "907111", "rv.4.author": "darkapitude", "rv.7.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/b6YCUWlbBMo\/default.jpg", "allow_embed": 1, "fmt_stream_map": "34|http:\/\/v10.lscache2.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43&factor=1.25&id=f6c2540f1ee2109c||tc.v10.cache2.c.youtube.com,5|http:\/\/v22.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B&factor=1.25&id=f6c2540f1ee2109c||tc.v22.cache5.c.youtube.com", "rv.2.rating": "0.0", "rv.7.title": "Linux song", "cc_load_policy": "1", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=1BH7poMtPVU", "rv.1.id": "1BH7poMtPVU", "rv.6.title": "Richard Stallman (as St IGNUcius) : Emacs vs Vi", "rv.4.length_seconds": 179, "rv.7.view_count": 11041, "rv.3.title": "Richard Stallman Eats Something From His Foot", "length_seconds": 121, "enablejsapi": 1, "video_id": "9sJUDx7iEJw", "plid": "AASMPYYPaHIdLBHL", "rv.5.rating": "4.44871794872", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=S-xb1miTjoE", "rv.1.author": "robertgarrigos", "rv.1.rating": "4.59090909091", "rv.4.title": "Free Software Song", "rv.5.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/xSkCny-HtTw\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl107009.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfl101609.swf", "rv.0.title": "Windows Vista vs. Windows XP", "rv.7.rating": "3.77049180328", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=I25UeVXrEHQ", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=y1DFwtR755I", "ttslisturl": "\/ajax_timedtext?videoId=9sJUDx7iEJw&type=list", "cc_module": "http:\/\/s.ytimg.com\/yt\/swf\/subtitle_module-vfl175721.swf", "ttstrackurl": "\/ajax_timedtext?videoId=9sJUDx7iEJw&type=track&lang=en&name=", "rv.4.view_count": 26213, "playerh": 640, "rv.1.view_count": 31613, "rv.5.title": "The Free Software Song", "rv.6.rating": "4.77168949772", "sk": "M-UAXOUASB1KXscjXWpLRyZTq3HItGYlC", "rv.1.title": "Richard Stallman - Free Software Song", "playerw": 360, "rv.1.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/1BH7poMtPVU\/default.jpg", "rv.3.length_seconds": 142, "rv.5.author": "pmcgovern"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl175721.swf"};
+			var forceUpdate = false;
+			yt.setConfig('SWF_CONFIG', swfConfig);
+			yt.setMsg('FLASH_UPGRADE', '\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tDu musst deinen Adobe Flash Player aktualisieren, damit du dieses Video ansehen kannst. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Du kannst den Player von Adobe herunterladen.<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n');
+			yt.flash.update(swfConfig, forceUpdate);
+		})();
+	</script>
+		
+
+
+
+	<script>
+		document.title = 'YouTube - Richard Stallman Free software Song';
+
+		yt.setConfig({
+			'VIDEO_ID': '9sJUDx7iEJw',
+			'VIDEO_USERNAME': 'AZATHOR',
+			'VIDEO_LANGUAGE': 'ES',
+			'BLOCK_USER_XSRF': '',
+			'SUBSCRIBE_AXC': '',
+
+			'IS_WIDESCREEN': false,
+			'IS_HD_AVAILABLE': false,
+			'PREFER_LOW_QUALITY': false,
+			'WIDE_PLAYER_STYLES': ["watch-wide-mode"],
+			'EMBED_URL': 'http:\/\/www.youtube.com\/v\/9sJUDx7iEJw&hl=de_DE&fs=1',
+			'SHARE_URL': 'http:\/\/www.youtube.com\/watch?v=9sJUDx7iEJw',
+			'SHARE_URL_SHORT': 'http:\/\/youtu.be\/9sJUDx7iEJw',
+			'ALLOW_EMBED': true,
+			'ALLOW_RATINGS': true,
+			'AJAX_MODE': false,
+			'SEARCH_ON_WATCH_MODE': false,
+			'SEARCH_ON_WATCH_TINY_UI': false,
+
+			'HAS_ACTIVE_QUICKLIST': false,
+
+			'LIST_PLAY_NEXT_URL': null,
+			'LIST_PLAY_NEXT_URL_WITH_SHUFFLE': null,
+			'LIST_AUTO_PLAY_ON': false,
+			'LIST_AUTO_PLAY_VALUE': 1,
+			'SHOW_NEXT_BUTTON': false,
+			'SHUFFLE_VALUE': null,
+			'SHUFFLE_ENABLED': false,
+			'SEQUENTIAL_VIDEO_LIST': [],
+			'SHUFFLED_VIDEO_LIST': [],
+
+			'TTS_WATCH_URL': '\/watch_ajax?action_get_caption_track_all&v=9sJUDx7iEJw',
+			'LOCALE' : 'DE',
+			'LANGUAGE' : 'de',
+
+			'SHOW_SUBSCRIBE_UPSELL': true,
+
+			'WATCH5': true,
+			
+
+			'STAGED_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_640x25-vfl148884.png",
+			'STAGED_WIDE_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_854x25-vfl148884.png",
+			'GUIDED_HELP_FLOW': 172459,
+			'VIDEO_HQ_THUMB': 'http://i2.ytimg.com/vi/9sJUDx7iEJw/hqdefault.jpg',
+			'GUIDED_HELP_LOCALE': 'de_DE',
+			'PLAY_ALL_MAX': 45,
+			'PLAYER_CONFIG': {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch_as3-vfl178359.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 12, "rv.2.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/y1DFwtR755I\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=HELrxLdP85c", "rv.0.view_count": 969253, "enablecsi": "1", "rv.2.title": "Young Richard Stallman", "rv.6.author": "bfb72", "rv.3.view_count": 118660, "rv.0.length_seconds": 3119, "rv.4.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/S-xb1miTjoE\/default.jpg", "fmt_url_map": "34|http:\/\/v10.lscache2.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43&factor=1.25&id=f6c2540f1ee2109c,5|http:\/\/v22.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B&factor=1.25&id=f6c2540f1ee2109c", "csi_page_type": "watch", "keywords": "linux,richard,stallman,free,software,song,azathor,ruddy,catalan,espa\u00c3\u00b1a,julian,coccia", "cr": "DE", "cc3_module": "http:\/\/s.ytimg.com\/yt\/swf\/subtitles3_module-vfl178359.swf", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/S76pHIYx3ik\/default.jpg", "rv.3.rating": "4.45054945055", "fmt_list": "34\/320x240\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "b6YCUWlbBMo", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=b6YCUWlbBMo", "rv.0.rating": "4.15180349635", "rv.4.rating": "4.62337662338", "rv.5.id": "xSkCny-HtTw", "rv.2.view_count": 34092, "rv.0.featured": 1, "rv.0.id": "HELrxLdP85c", "cc_font": "Arial Unicode MS, arial, verdana, _sans", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=xSkCny-HtTw", "rv.6.length_seconds": 192, "timestamp": 1280095776, "rv.0.author": "lockergnome", "cc_asr": 1, "rv.2.author": "pauloslomp", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=S76pHIYx3ik", "fmt_map": "34\/320x240\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "de_DE", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vfl178359.swf", "rv.0.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/HELrxLdP85c\/default.jpg", "rv.5.length_seconds": 169, "rv.7.author": "kyrlen", "rv.3.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/I25UeVXrEHQ\/default.jpg", "rv.5.view_count": 51414, "tts_watch_url": "\/watch_ajax?action_get_caption_track_all&v=9sJUDx7iEJw", "rv.1.length_seconds": 118, "rv.3.id": "I25UeVXrEHQ", "rv.2.id": "y1DFwtR755I", "rv.2.length_seconds": 30, "t": "vjVQa1PpcFPYl2BkiNiM8m-gE_vLqvaW4jDwWf7rmD0=", "rv.6.id": "S76pHIYx3ik", "vq": "auto", "rv.6.view_count": 48106, "rv.3.author": "jrearick", "rv.4.id": "S-xb1miTjoE", "ttsurl": "http:\/\/video.google.com\/timedtext?sparams=caps%2Cexpire%2Cv&expire=1280120400&caps=asr&key=yttt1&signature=C65995E474A8657E658DA21A11F686C5E22DA6EA.92B1EC779EA1BB653876A4DCB49C4BFAF03851E1", "fexp": "907111", "rv.4.author": "darkapitude", "rv.7.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/b6YCUWlbBMo\/default.jpg", "allow_embed": 1, "fmt_stream_map": "34|http:\/\/v10.lscache2.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C95B575B11CA18D388E7560C50A3A2F4044703F3.B9D584A46EE5E317E12794A89FCB13937C2C6E43&factor=1.25&id=f6c2540f1ee2109c||tc.v10.cache2.c.youtube.com,5|http:\/\/v22.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907111&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280120400&key=yt1&signature=C546934A8D04892F1C1A98ECDFF0F94DD3B37ADF.7330EAE2C5BEB9F357399DB204DA60BA68EC4D2B&factor=1.25&id=f6c2540f1ee2109c||tc.v22.cache5.c.youtube.com", "rv.2.rating": "0.0", "rv.7.title": "Linux song", "cc_load_policy": "1", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=1BH7poMtPVU", "rv.1.id": "1BH7poMtPVU", "rv.6.title": "Richard Stallman (as St IGNUcius) : Emacs vs Vi", "rv.4.length_seconds": 179, "rv.7.view_count": 11041, "rv.3.title": "Richard Stallman Eats Something From His Foot", "length_seconds": 121, "enablejsapi": 1, "video_id": "9sJUDx7iEJw", "plid": "AASMPYYPaHIdLBHL", "rv.5.rating": "4.44871794872", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=S-xb1miTjoE", "rv.1.author": "robertgarrigos", "rv.1.rating": "4.59090909091", "rv.4.title": "Free Software Song", "rv.5.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/xSkCny-HtTw\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl107009.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfl101609.swf", "rv.0.title": "Windows Vista vs. Windows XP", "rv.7.rating": "3.77049180328", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=I25UeVXrEHQ", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=y1DFwtR755I", "ttslisturl": "\/ajax_timedtext?videoId=9sJUDx7iEJw&type=list", "cc_module": "http:\/\/s.ytimg.com\/yt\/swf\/subtitle_module-vfl175721.swf", "ttstrackurl": "\/ajax_timedtext?videoId=9sJUDx7iEJw&type=track&lang=en&name=", "rv.4.view_count": 26213, "playerh": 640, "rv.1.view_count": 31613, "rv.5.title": "The Free Software Song", "rv.6.rating": "4.77168949772", "sk": "M-UAXOUASB1KXscjXWpLRyZTq3HItGYlC", "rv.1.title": "Richard Stallman - Free Software Song", "playerw": 360, "rv.1.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/1BH7poMtPVU\/default.jpg", "rv.3.length_seconds": 142, "rv.5.author": "pmcgovern"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl175721.swf"}
+		});
+
+		yt.setMsg({
+			'LOADING': 'Wird geladen...',
+			'AUTOPLAY_ON': 'Autom. Wiedergabe (ein)',
+			'AUTOPLAY_OFF': 'Autom. Wiedergabe (aus)',
+			'SHUFFLE_ON': 'Zufallswiedergabe (ein)',
+			'SHUFFLE_OFF': 'Zufallswiedergabe (aus)',
+			'SUBSCRIBE_UPSELL_MESSAGE': 'Wenn dir das Video von AZATHOR gefällt, abonniere es!\n',
+			'QUEUE_EMPTY': 'Du kannst ein Video zu deiner Warteschlange hinzufügen, indem du die Option im Menü des Video-Thumbnails auswählst.',  			'QUEUE_CLEAR': 'Möchtest du wirklich fortfahren?',
+			'ADD_TO_WATCH_QUEUE': 'Zur Warteschlange hinzufügen'
+		});
+		
+		
+
+yt.setMsg({
+	'UNBLOCK_USER': "Möchtest du die Blockierung dieses Nutzers wirklich aufheben?",
+	'BLOCK_USER': "Möchtest du diesen Nutzer wirklich blockieren?"
+});
+yt.setConfig('BLOCK_USER_XSRF', '');
+
+
+
+			yt.setConfig({
+		'COMMENTS_THRESHHOLD': -5,
+		'COMMENTS_FILTER': 0,
+		'COMMENTS_PAGE_SIZE': 10,
+		'COMMENTS_COUNT': 454,
+		'COMMENTS_PPS_CAN_POST_OR_REACT_TO_COMMENT': true
+	});
+	yt.setMsg({
+		'COMMENT_OK': 'OK',
+		'COMMENT_BLOCKED': 'Du wurdest vom Eigentümer dieses Videos blockiert.',
+		'COMMENT_CAPTCHAFAIL': 'Die Buchstaben im Bild wurden falsch eingegeben. Versuche es erneut.',
+		'COMMENT_PENDING': 'Kommentar muss noch genehmigt werden.',
+		'COMMENT_ERROR': 'Fehler, versuche es erneut'
+	});
+
+
+
+		
+		yt.pubsub.subscribe('init', yt.www.watch.sow.resizeForSearch);
+		yt.events.listen(window, 'resize', yt.www.watch.sow.resizeForSearch);
+
+			function tn_load(index) {
+		if (window.yt.timing && yt.timing.handleThumbnailLoad){
+			yt.timing.handleThumbnailLoad(index);
+		}
+	}
+
+
+		
+
+
+	
+		yt.pubsub.subscribe('init', yt.www.watch.player.enableVideoQualityDisplay);
+
+		yt.pubsub.subscribe('init', function() {
+			yt.www.watch.player.handleHashArgumentsOnWatchLoad();
+		});
+		
+
+
+		yt.pubsub.subscribe('init', function() {
+			var description = _gel('watch-description');
+			if (!_hasclass(description, 'yt-uix-expander-collapsed')) {
+				yt.www.watch.watch5.handleToggleDescription(description);
+			}
+		});
+
+		
+
+		yt.pubsub.subscribe('init', function() {
+			var headEl = goog.dom.getElementsByTagNameAndClass('head', null, null)[0];
+			var scriptEl = document.createElement('script');
+			scriptEl.type = 'text/javascript';
+			scriptEl.src = 'http://s.ytimg.com/yt/jsbin/www-dragdrop-vfl170539.js';
+			headEl.appendChild(scriptEl);
+		});
+		
+
+
+
+
+	</script>
+	
+	
+	
+
+
+	
+
+				<script>
+			yt.setConfig('TIMING_ACTION', 'watch5');
+		</script>
+
+	
+	
+	<script>
+	
+		
+
+			yt.pubsub.subscribe('init', function() {
+
+		yt.www.thumbnailDelayLoad.setFudgeFactor(0);
+	
+	if (document.documentElement["getBoundingClientRect"]) {
+		yt.events.listen(window, 'scroll', yt.www.thumbnailDelayLoad.loadImages);
+		yt.events.listen(window, 'resize', yt.www.thumbnailDelayLoad.loadImages);
+	}
+	yt.www.thumbnailDelayLoad.loadImages();
+
+		yt.www.thumbnailDelayLoad.setLoadAllAtOnce(true);
+
+	});
+
+		
+		
+			yt.setTimeout(function() {
+				window.yt.www.suggest.install(document.searchForm,
+						document.searchForm.search_query,
+						'de','Schließen',
+						'Vorschläge',
+						'Websuche',
+						-1,
+						null);
+					}, 100);
+
+	</script>
+	
+	<script id="legacy-user-datastore" style="behavior:url('#default#userdata')"></script>
+	
+	
+
+
+	<!-- end postpage section -->
+	<!--[if IE]></div><![endif]-->
+</body>
+
+</html>

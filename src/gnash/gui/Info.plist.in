@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Gnash</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Copyright (C) 2005-2007 Free Software Foundation, Inc.</string>
+	<key>CFBundleIconFile</key>
+	<string>GnashG</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.gnash.aqua</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+<!-- four-character Mac OS 9-style creator code -->
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleTypeExtensions</key>
+	<array>
+		<string>swf</string>
+		<string>SWF</string>
+	</array>
+	<key>CFBundleTypeName</key>
+	<string>Flash File</string>
+	<key>CFBundleTypeOSTypes</key>
+	<array>
+		<string>swf</string>
+		<string>SWF</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>@VERSION@</string>
+	<key>SUFeedURL</key>
+	<string>http://www.gnashdev.org/update.xml</string>
+</dict>
+</plist>

@@ -1,0 +1,1679 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<!-- machid: bUFBJZzdHSFZNZTcxUjd0T0ZXRXh1QTd5NkhUdGE1VlhRcEw2SFlra3Q2WHplUTBXRVBvbjVB -->
+<head>
+				<script>
+			var yt = yt || {};
+			yt.timing = yt.timing || {};
+			yt.timing.cookieName = 'VISITOR_INFO1_LIVE';
+			yt.timing.tick = function(label) {
+				var timer = yt.timing.timer || {};
+				timer[label] = new Date().getTime();
+				yt.timing.timer = timer;
+			};
+				yt.timing.experiment = '907028';
+				yt.timing.wff = true;
+			
+				yt.timing.tick('start');
+			
+			try {
+				yt.timing.pt = window.gtbExternal && window.gtbExternal.pageT() ||
+							window.external && window.external.pageT;
+			} catch(e) {}
+			if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+				yt.timing.pt = window.chrome && window.chrome.csi && Math.floor(window.chrome.csi().pageT);
+			}
+		</script>
+
+		<script>
+			var yt = yt || {};
+			yt.preload = {};
+			yt.preload.start = function() {
+				var img = new Image();
+				yt.preload.videoConnection = img;
+				img.onload = img.onerror = function () {
+					delete yt.preload.videoConnection;
+				};
+				img.src = 'http:\/\/v11.lscache1.c.youtube.com\/generate_204?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560&factor=1.25&id=929169e61842678c';
+				img = null;
+			};
+			yt.preload.start();
+		</script>
+
+		<title>
+		YouTube
+				- Cape Town - Overview
+	</title>
+
+				<link id="www-core-css" rel="stylesheet" href="http://s.ytimg.com/yt/cssbin/www-core-vfl178416.css">
+
+
+	
+
+		
+	<link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=de_DE" title="YouTube-Videosuche">
+	<link rel="icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://s.ytimg.com/yt/favicon-vfl147246.ico" type="image/x-icon">
+		<link rel="canonical" href="/watch?v=kpFp5hhCZ4w">
+		<link rel="alternate" media="handheld" href="http://m.youtube.com/watch?desktop_uri=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkpFp5hhCZ4w&amp;v=kpFp5hhCZ4w&amp;gl=DE">
+		<link rel="shortlink" href="http://youtu.be/kpFp5hhCZ4w">
+		<meta name="title" content="Cape Town - Overview">
+
+		<meta name="description" content="Showcasing the variety of Attractions Cape Town has to offer, including Beaches, Business, Culture, Food, Wine, Nature and Art">
+
+		<meta name="keywords" content="Attractions, Cape Town, Beaches, Business, Culture, Food, Wine, Nature, Art">
+
+	<link rel="alternate" type="application/json+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3DkpFp5hhCZ4w&format=json" title="Cape Town - Overview" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch?v%3DkpFp5hhCZ4w&format=xml" title="Cape Town - Overview" />
+
+
+		<script>
+		var gYouTubePlayerReady = false;
+		if (!window['onYouTubePlayerReady']) {
+			window['onYouTubePlayerReady'] = function() {
+				gYouTubePlayerReady = true;
+			};
+		}
+	</script>
+			<script>
+			if (window.yt.timing) {
+				yt.timing.tick('ct');
+			}
+		</script>
+
+
+</head>
+<body class="date-20100721 de_DE not-english watch5-active" dir="ltr">
+	<!--[if IE]><div id="ie"><![endif]-->
+	<!-- begin prepage section -->
+	<form name="logoutForm" method="post" action="/">
+		<input type="hidden" name="action_logout" value="1">
+	</form>
+	<!-- end prepage section -->
+	<div id="page" class="	watch ">
+			<div id="pagetop">
+		<!-- begin pagetop section -->
+		<div id="masthead-container">
+				<div id="masthead" class="">
+					<a href="/" title="YouTube-Startseite">
+			<img id="logo" class="master-sprite" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt="YouTube-Startseite">
+		</a>
+
+		<div id="masthead-search">
+			
+	<form autocomplete="off" class="search-form" action="/results" method="get" name="searchForm" onsubmit="">
+		<input id="masthead-search-term" class="search-term" name="search_query" value="" type="text" tabindex="1" onkeyup="goog.i18n.bidi.setDirAttribute(event,this)"   maxlength="128">
+
+
+
+			<button type="button" class="search-button yt-uix-button" onclick="if (_gel('masthead-search-term').value != '') { document['searchForm'].submit(); }; return false;;return false;" tabindex="2" ><span class="yt-uix-button-content">Suchen</span></button>
+
+	</form>
+
+		</div>
+		<div id="masthead-nav">
+			<a href="/videos">Kategorien</a><a href="http://upload.youtube.com/my_videos_upload">Video hochladen</a>
+		</div>
+			<div id="masthead-utility">
+				<a class="start" href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&amp;ltmpl=sso&amp;hl=de_DE&amp;service=youtube">Konto erstellen</a><a class="end" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Dde_DE%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&amp;hl=de_DE&amp;ltmpl=sso">Anmelden</a>
+			</div>
+	</div>
+
+		</div>
+		
+		<div id="alerts" >			<div id="default-language-box" style="margin: 10px 0 20px 0; text-align: left; padding: 8px 10px; background-color: #e6efff; border: 1px solid #aeaed5; font-size: 13px;">
+		<div id="default-language-top">
+			<div class="box-close-link"><a href="http://www.youtube.com/watch?v=kpFp5hhCZ4w&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" class="hLink">Schließen</a><img alt="Schließen" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" onclick="_hidediv('default-language-box');"></div>
+			<div id="default-language-translated">
+					<p class="errorParagraph"><strong>Willkommen bei YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Vorgeschlagene Sprache (von uns festgelegt):</strong>  Deutsch</p>
+					
+					<p class="errorParagraph"><strong>Vorgeschlagene Standorteinstellung (von uns festgelegt):</strong>  Deutschland</p>
+					
+					<p class="errorParagraph">Durch den Standortfilter werden in Listen wie <a href="/videos?s=mp">Meist gesehen</a> und in den Suchergebnissen Videos aus diesem Land bzw. dieser Region angezeigt.Du kannst die einzelnen Einstellungen über die Links unten in der Fußzeile ändern.</p>
+					
+					<p class="errorParagraph">Klicke auf &quot;OK&quot;, um die Einstellung zu übernehmen, oder auf &quot;Abbrechen&quot;, um &quot;English (US)&quot; als Sprache und &quot;Weltweit (alle)&quot; als Standortfilter festzulegen.</p>
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<button href="http://www.youtube.com/watch?v=kpFp5hhCZ4w&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" type="button" class=" yt-uix-button yt-uix-button-urgent" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">OK</span></button>
+				<button href="http://www.youtube.com/watch?v=kpFp5hhCZ4w&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" type="button" class=" yt-uix-button" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">Abbrechen</span></button>
+		</div>
+	</div>
+
+			</div>
+			<div id="default-language-english" style="display: none;">
+				<br>
+					<p class="errorParagraph"><strong>Welcome to YouTube!</strong> </p>
+					
+					<p class="errorParagraph"><strong>Suggested Language (we have set your preference to this):</strong> German</p>
+					
+					<p class="errorParagraph"><strong>Suggested Location Filter (we have set your preference to this):</strong> Germany</p>
+					
+					<p class="errorParagraph">The location filter shows you popular videos from the selected country or region on lists like <a href="/videos?s=mp">Most Viewed</a> and in search results. If you would like to change either of these preferences, please use the links in the footer at the bottom of the page.</p>
+					
+					<p class="errorParagraph">Click &quot;OK&quot; to accept these settings, or click &quot;Cancel&quot; to set your language preference to &quot;English (US)&quot; and your country filter to &quot;Worldwide&quot;.</p>
+
+					<div style="padding-left: 350px;">
+		<div style="width: 250px;">
+				<button href="http://www.youtube.com/watch?v=kpFp5hhCZ4w&amp;opt_out_ackd=1hl=de&amp;persist_hl=1&amp;gl=DE&amp;persist_gl=1" type="button" class=" yt-uix-button yt-uix-button-urgent" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">OK</span></button>
+				<button href="http://www.youtube.com/watch?v=kpFp5hhCZ4w&amp;opt_out_ackd=1&amp;hl=en&amp;persist_hl=1&amp;gl=US&amp;persist_gl=1" type="button" class=" yt-uix-button" onclick=";window.location.href=this.getAttribute('href');return false;" ><span class="yt-uix-button-content">Abbrechen</span></button>
+		</div>
+	</div>
+
+			</div>
+				<div id="default-language-english-show-link">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-show-link', 'default-language-english-hide-link', 'default-language-english'); return false;">Show message in English</a>
+				</div>
+				<div id="default-language-english-hide-link" style="display: none;">
+					<a href="#" style="font-size: 10px; text-decoration: none;" onclick="yt.style.toggle('default-language-english-hide-link', 'default-language-english', 'default-language-english-show-link'); return false;">Hide message in English</a>
+				</div>
+
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	
+</div>
+		<!-- end pagetop section -->
+	</div>
+	<div id="content" class="">
+			<!-- begin watchsearchclose section -->
+	<div id="watch-search-close-ie"></div>
+	<div id="watch-search-close">
+		<div class="tab tab-upper"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button></div>
+		<div class="tab tab-lower"><button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.watch5.closeContent"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button></div>
+	</div>
+	<div id="watch-search-close-tiny">
+		<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.sow.closeSearch"><img class="yt-uix-button-icon-chevron-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.watch.watch5.closeContent"><img class="yt-uix-button-icon-close" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+	</div>
+	<!-- end watchsearchclose section -->
+	<div id="watch-container">
+	<!-- begin contenttop section -->
+	<div id="watch-headline-container">
+			<div id="watch-headline" class="watch-headline">
+
+		<h1 id="watch-headline-title">
+						<span id="eow-title" class=""  title="Cape Town - Overview">
+				Cape Town - Overview
+			</span>
+
+		</h1>
+
+		<div id="watch-headline-user-info">
+				<a id="watch-username" class="inline-block" href="/user/CapeTownTourism"><strong>CapeTownTourism</strong></a>
+			<span id="watch-video-count"
+						class="watch-expander yt-uix-expander yt-uix-expander-collapsed"
+						data-expander-action="yt.www.watch.watch5.handleToggleMoreFromUser">
+				<span class="watch-expander-head yt-uix-expander-head yt-rounded">
+					<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+27 Videos
+				</span>
+			</span>
+
+			<button onclick="yt.www.watch.about.subscribeWatch5(yt.getConfig('VIDEO_USERNAME'), 'username', yt.getConfig('SUBSCRIBE_AXC'),'nourgent');;return false;" title="Klicke hier, um bei neuen Videos auf diesem Kanal benachrichtigt zu werden." type="button" class=" yt-uix-button yt-uix-tooltip" id="subscribeDiv" ><span class="yt-uix-button-content">Abonnieren</span></button>
+			<button type="button" class="hid yt-uix-button" onclick="yt.www.watch.about.editSubscription(yt.getConfig('VIDEO_USERNAME'), yt.getConfig('SUBSCRIBE_AXC'), 'alerts');;return false;" id="editSubscriptionDiv" ><span class="yt-uix-button-content">Abo bearbeiten</span></button>
+
+		</div>
+		<div id="watch-more-from-user" class="collapsed">
+			<div id="watch-channel-discoverbox" class="yt-rounded">
+				<span id="watch-channel-loading">Wird geladen...</span>
+			</div>
+		</div>
+
+	</div>
+
+	</div>
+	<!-- end contenttop section -->
+	<div id="watch-video-container">
+		<div id="watch-video" class=" ">
+					<script>
+			if (window.yt.timing) {
+				yt.timing.tick('bf');
+			}
+		</script>
+
+			<div id="watch-player" class="flash-player">
+					
+		
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+	
+		
+		
+		
+	
+	
+
+
+
+	<script>
+		(function() {
+			var isIE = /*@cc_on!@*/false;
+			var swfHTML = (isIE) ? "<object height=\"38" + "5\" width=\"64" + "0\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" id=\"movie_player\" ><param name=\"movie\" value=\"http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf\"><param name=\"flashvars\" value=\"rv.7.length_seconds=94&rv.2.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Ft1tZ4fNufC8%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqKk14vPGARs&rv.0.view_count=32614&enablecsi=1&rv.2.title=Cape+Town&rv.6.author=kokonutz2&rv.3.view_count=11116&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FvaHwnFG9CAU%2Fdefault.jpg&fmt_url_map=35%7Chttp%3A%2F%2Fv21.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3%26factor%3D1.25%26id%3D929169e61842678c%2C34%7Chttp%3A%2F%2Fv11.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560%26factor%3D1.25%26id%3D929169e61842678c%2C5%7Chttp%3A%2F%2Fv2.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982%26factor%3D1.25%26id%3D929169e61842678c&csi_page_type=watch&keywords=Attractions%2CCape+Town%2CBeaches%2CBusiness%2CCulture%2CFood%2CWine%2CNature%2CArt&cr=DE&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFfD--MHTddE&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2Fs2O_qdyVFtY%2Fdefault.jpg&rv.3.rating=4.45454545455&fmt_list=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=M4ALstwYkTM&iv_storage_server=http%3A%2F%2Fwww.google.com%2Freviews%2Fy%2F&creator=CapeTownTourism&rv.0.rating=4.95&rv.4.rating=4.42857142857&rv.3.title=Cape+Town+2010+-+A+city+reimagined&rv.5.id=MSelk6lQDuE&rv.0.featured=1&rv.0.id=qKk14vPGARs&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMSelk6lQDuE&rv.6.length_seconds=44&timestamp=1280093963&rv.0.author=karmagrrrl&iv_load_policy=1&rv.2.author=joejourneys&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds2O_qdyVFtY&fmt_map=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=de_DE&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vfl178359.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FqKk14vPGARs%2Fdefault.jpg&rv.5.length_seconds=42&rv.0.length_seconds=79&rv.3.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFEWwzm53vlg%2Fdefault.jpg&rv.7.author=TravelVideoStore&rv.1.length_seconds=69&rv.3.id=FEWwzm53vlg&rv.2.id=t1tZ4fNufC8&rv.2.length_seconds=504&t=vjVQa1PpcFN5cd9_cb1uuHxcoMW8psYxc0Kcekl2XCM%3D&rv.6.id=s2O_qdyVFtY&vq=auto&rv.6.view_count=3364817&rv.3.author=capetown2020&rv.4.id=vaHwnFG9CAU&fexp=907028&rv.4.author=ruby2cubes&rv.7.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FM4ALstwYkTM%2Fdefault.jpg&allow_embed=1&fmt_stream_map=35%7Chttp%3A%2F%2Fv21.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v21.cache1.c.youtube.com%2C34%7Chttp%3A%2F%2Fv11.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v11.cache1.c.youtube.com%2C5%7Chttp%3A%2F%2Fv2.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v2.cache5.c.youtube.com&rv.2.rating=4.609375&rv.7.title=Vista+Point++CAPE+TOWN+South+Africa&rv.1.id=FfD--MHTddE&rv.6.title=Cape+Town+2&rv.4.length_seconds=595&rv.7.view_count=27180&rv.5.view_count=1571&length_seconds=146&enablejsapi=1&video_id=kpFp5hhCZ4w&plid=AASMPRn7W6nqamvQ&iv_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv_module-vfl178376.swf&rv.5.rating=4.0&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvaHwnFG9CAU&rv.1.author=CapeTownTourism&rv.1.rating=4.8&rv.4.title=Cape+Town&rv.5.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FMSelk6lQDuE%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl107009.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl101609.swf&rv.0.title=south+africa%3A+helicopter+ride+over+cape+town&iv3_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv3_module-vfl178380.swf&rv.7.rating=4.52941176471&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFEWwzm53vlg&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt1tZ4fNufC8&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM4ALstwYkTM&rv.2.view_count=57948&rv.4.view_count=2081&playerh=640&rv.1.view_count=6764&rv.5.title=Clifton+Beach+-+Cape+Town%2C+South+Africa&rv.6.rating=4.27644569817&sk=fal0tGAOzcmbTu9fkHPWNMIScoXL_sZbC&rv.1.title=Cape+Town+-+Lifestyle&playerw=360&rv.1.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFfD--MHTddE%2Fdefault.jpg&rv.3.length_seconds=145&rv.5.author=SmartGuide1\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"bgcolor\" value=\"#000000\">\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tZum Ansehen dieses Videos benötigst du den Adobe Flash Player. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Player von Adobe herunterladen<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n<\/object>" : "<embed height=\"38" + "5\" width=\"64" + "0\" type=\"application\/x-shockwave-flash\" src=\"http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf\" id=\"movie_player\" flashvars=\"rv.7.length_seconds=94&rv.2.thumbnailUrl=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Ft1tZ4fNufC8%2Fdefault.jpg&rv.0.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqKk14vPGARs&rv.0.view_count=32614&enablecsi=1&rv.2.title=Cape+Town&rv.6.author=kokonutz2&rv.3.view_count=11116&is_doubleclick_tracked=1&rv.4.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FvaHwnFG9CAU%2Fdefault.jpg&fmt_url_map=35%7Chttp%3A%2F%2Fv21.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3%26factor%3D1.25%26id%3D929169e61842678c%2C34%7Chttp%3A%2F%2Fv11.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560%26factor%3D1.25%26id%3D929169e61842678c%2C5%7Chttp%3A%2F%2Fv2.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982%26factor%3D1.25%26id%3D929169e61842678c&csi_page_type=watch&keywords=Attractions%2CCape+Town%2CBeaches%2CBusiness%2CCulture%2CFood%2CWine%2CNature%2CArt&cr=DE&rv.1.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFfD--MHTddE&rv.6.thumbnailUrl=http%3A%2F%2Fi4.ytimg.com%2Fvi%2Fs2O_qdyVFtY%2Fdefault.jpg&rv.3.rating=4.45454545455&fmt_list=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&rv.7.id=M4ALstwYkTM&iv_storage_server=http%3A%2F%2Fwww.google.com%2Freviews%2Fy%2F&creator=CapeTownTourism&rv.0.rating=4.95&rv.4.rating=4.42857142857&rv.3.title=Cape+Town+2010+-+A+city+reimagined&rv.5.id=MSelk6lQDuE&rv.0.featured=1&rv.0.id=qKk14vPGARs&rv.5.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMSelk6lQDuE&rv.6.length_seconds=44&timestamp=1280093963&rv.0.author=karmagrrrl&iv_load_policy=1&rv.2.author=joejourneys&rv.6.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds2O_qdyVFtY&fmt_map=35%2F854x480%2F9%2F0%2F115%2C34%2F640x360%2F9%2F0%2F115%2C5%2F320x240%2F7%2F0%2F0&showpopout=1&hl=de_DE&endscreen_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fendscreen-vfl178359.swf&rv.0.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FqKk14vPGARs%2Fdefault.jpg&rv.5.length_seconds=42&rv.0.length_seconds=79&rv.3.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFEWwzm53vlg%2Fdefault.jpg&rv.7.author=TravelVideoStore&rv.1.length_seconds=69&rv.3.id=FEWwzm53vlg&rv.2.id=t1tZ4fNufC8&rv.2.length_seconds=504&t=vjVQa1PpcFN5cd9_cb1uuHxcoMW8psYxc0Kcekl2XCM%3D&rv.6.id=s2O_qdyVFtY&vq=auto&rv.6.view_count=3364817&rv.3.author=capetown2020&rv.4.id=vaHwnFG9CAU&fexp=907028&rv.4.author=ruby2cubes&rv.7.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FM4ALstwYkTM%2Fdefault.jpg&allow_embed=1&fmt_stream_map=35%7Chttp%3A%2F%2Fv21.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D35%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v21.cache1.c.youtube.com%2C34%7Chttp%3A%2F%2Fv11.lscache1.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D34%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v11.cache1.c.youtube.com%2C5%7Chttp%3A%2F%2Fv2.lscache5.c.youtube.com%2Fvideoplayback%3Fip%3D217.0.0.0%26sparams%3Did%252Cexpire%252Cip%252Cipbits%252Citag%252Calgorithm%252Cburst%252Cfactor%26fexp%3D907028%26algorithm%3Dthrottle-factor%26itag%3D5%26ipbits%3D8%26burst%3D40%26sver%3D3%26expire%3D1280116800%26key%3Dyt1%26signature%3D075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982%26factor%3D1.25%26id%3D929169e61842678c%7C%7Ctc.v2.cache5.c.youtube.com&rv.2.rating=4.609375&rv.7.title=Vista+Point++CAPE+TOWN+South+Africa&rv.1.id=FfD--MHTddE&rv.6.title=Cape+Town+2&rv.4.length_seconds=595&rv.7.view_count=27180&rv.5.view_count=1571&length_seconds=146&enablejsapi=1&video_id=kpFp5hhCZ4w&plid=AASMPRn7W6nqamvQ&iv_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv_module-vfl178376.swf&rv.5.rating=4.0&rv.4.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvaHwnFG9CAU&rv.1.author=CapeTownTourism&rv.1.rating=4.8&rv.4.title=Cape+Town&rv.5.thumbnailUrl=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FMSelk6lQDuE%2Fdefault.jpg&watermark=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Flogo-vfl107009.swf%2Chttp%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fhdlogo-vfl101609.swf&rv.0.title=south+africa%3A+helicopter+ride+over+cape+town&iv3_module=http%3A%2F%2Fs.ytimg.com%2Fyt%2Fswf%2Fiv3_module-vfl178380.swf&rv.7.rating=4.52941176471&rv.3.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFEWwzm53vlg&rv.2.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt1tZ4fNufC8&rv.7.url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM4ALstwYkTM&rv.2.view_count=57948&rv.4.view_count=2081&playerh=640&rv.1.view_count=6764&rv.5.title=Clifton+Beach+-+Cape+Town%2C+South+Africa&rv.6.rating=4.27644569817&sk=fal0tGAOzcmbTu9fkHPWNMIScoXL_sZbC&rv.1.title=Cape+Town+-+Lifestyle&playerw=360&rv.1.thumbnailUrl=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFfD--MHTddE%2Fdefault.jpg&rv.3.length_seconds=145&rv.5.author=SmartGuide1\" allowscriptaccess=\"always\" allowfullscreen=\"true\" bgcolor=\"#000000\" \/><noembed>\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tZum Ansehen dieses Videos benötigst du den Adobe Flash Player. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Player von Adobe herunterladen<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n<\/noembed>";
+				document.write(swfHTML);
+		})();
+	</script>
+
+			</div>
+			<!-- begin videoextra section -->
+			<!-- end videoextra section -->
+		</div>
+	</div>
+	<!-- begin contentbottom section -->
+	<div id="watch-main-container">
+		<div id="watch-main">
+			<div id="watch-panel">
+				<div id="watch-info" class="yt-rounded">
+								<div id="watch-views" class="watch-expander yt-uix-expander yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleStats">
+		<div class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-expander-head-content"><strong class="watch-view-count">14.971</strong><br>Aufrufe</span>
+
+
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<button class="yt-uix-expander-arrow master-sprite" style="visibility: hidden" onclick="return false;"></button>
+			<strong class="watch-view-count">14.971</strong><br>Aufrufe
+		</div>
+	</div>
+
+
+
+	
+	<div id="watch-description" class="watch-expander yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed" data-expander-action="yt.www.watch.watch5.handleToggleDescription">
+		
+		<div  class="watch-expander-head yt-uix-expander-head yt-rounded">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<div class="watch-expander-head-content">
+					
+	<div class="watch-info-description">
+		<div class="watch-info-description-head">
+		
+		<a class="watch-description-username" href="/user/CapeTownTourism" onclick="yt.events.stopPropagation(event);"><strong>CapeTownTourism</strong></a>
+		
+			<span class="watch-description-separator">|</span>
+				<span id="eow-date" class="watch-video-date">11. Februar 2010</span>
+
+	
+
+		</div>
+	
+			
+		
+	<p id="eow-description-short" >Showcasing the variety of Attractions Cape Town has to offer, including Beach...</p>
+
+
+	</div>
+
+			</div>
+		</div>
+		<div class="watch-expander-body yt-uix-expander-body">
+			<div id="watch-description-body">
+					
+	<div class="watch-info-description">
+		<div class="watch-info-description-head">
+		
+		<a class="watch-description-username" href="/user/CapeTownTourism" onclick="yt.events.stopPropagation(event);"><strong>CapeTownTourism</strong></a>
+		
+			<span class="watch-description-separator">|</span>
+				<span id="eow-date" class="watch-video-date">11. Februar 2010</span>
+
+	
+
+		</div>
+	
+			
+		
+	<p id="eow-description" >Showcasing the variety of Attractions Cape Town has to offer, including Beaches, Business, Culture, Food, Wine, Nature and Art</p>
+
+
+				<div id="watch-description-extras">
+		<h4>Kategorie:</h4>
+			<p id="eow-category"><a href="/videos?c=19">Reisen &amp; Events</a></p>
+
+		
+	
+			<h4>Tags:</h4>
+				<ul id="eow-tags" class="watch-info-tag-list">
+		<li><a href="/results?search_query=Attractions&amp;search=tag">Attractions</a></li>
+		<li><a href="/results?search_query=Cape%20Town&amp;search=tag">Cape Town</a></li>
+		<li><a href="/results?search_query=Beaches&amp;search=tag">Beaches</a></li>
+		<li><a href="/results?search_query=Business&amp;search=tag">Business</a></li>
+		<li><a href="/results?search_query=Culture&amp;search=tag">Culture</a></li>
+		<li><a href="/results?search_query=Food&amp;search=tag">Food</a></li>
+		<li><a href="/results?search_query=Wine&amp;search=tag">Wine</a></li>
+		<li><a href="/results?search_query=Nature&amp;search=tag">Nature</a></li>
+		<li><a href="/results?search_query=Art&amp;search=tag">Art</a></li>
+	</ul>
+
+
+
+
+	</div>
+
+	</div>
+
+			</div>
+		</div>
+		
+
+	</div>
+	
+	<div id="watch-stats-container" class="hid">
+		<div id="watch-stats" class="yt-rounded">
+			<div id="watch-stats-loading">Wird geladen...</div>
+		</div>
+	</div>
+	
+
+	<div class="clearR"></div>
+
+				</div>
+				<div id="watch-actions">
+						<div id="watch-actions-left">
+		<button title="Mag ich" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-like" data-button-action="yt.www.watch.watch5.like"><img class="yt-uix-button-icon-watch-like" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Mag ich</span></button>
+		&nbsp;
+		<button title="Mag ich nicht" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-unlike" data-button-action="yt.www.watch.watch5.unlike"><img class="yt-uix-button-icon-watch-unlike" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+			&nbsp;			<div class="action-bar-ratings-stats yt-uix-tooltip" title="Gefällt 25, gefällt 0 nicht">
+			<div class="likes-bar" style="width:5.0%"></div>
+			<div class="dislikes-bar" style="width:0.0%"></div>
+		</div>
+
+	</div>
+	<div id="watch-actions-right">
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-embed" onclick=";return false;" title="Einbettungscode für Video abrufen" data-button-action="yt.www.watch.watch5.embed"><span class="yt-uix-button-content">&lt;Einbetten&gt;</span></button>
+		<span class="watch-flagging">
+			&nbsp;
+			<button title="Als unangemessen melden" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-flag" data-button-action="yt.www.watch.watch5.flag"><img class="yt-uix-button-icon-watch-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>
+		</span>
+	</div>
+	<div id="watch-actions-center">
+		<button class=" yt-uix-button yt-uix-tooltip" type="button" id="watch-playlists-button" onclick=";return false;" title="In Favoriten oder Playlist speichern" data-button-action="yt.www.watch.watch5.loadPlaylists"><span class="yt-uix-button-content">Speichern in</span> <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""></button>
+		&nbsp;
+		<button title="Dieses Video weiterleiten" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-share" data-button-action="yt.www.watch.watch5.share"><img class="yt-uix-button-icon-watch-expand-share" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Weiterleiten</span></button>
+	</div>
+	
+	<div id="watch-actions-share" class="hid">
+		<div class="watch-actions-share">
+			<div class="watch-actions-share-head">
+				<img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="watch-actions-share-link-icon">
+				<input class="watch-actions-share-input" type="text">
+				<div class="watch-actions-share-options" onclick="yt.www.watch.watch5.updateShareURL();">
+					<label>
+						<input class="watch-actions-share-short" type="checkbox">
+Kurze URL
+					</label>
+				</div>
+			</div>
+			<button type="button" class="watch-share-button yt-uix-button" onclick="yt.window.popup('/share_inline?v=kpFp5hhCZ4w', {height:350, width:450, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_email" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">E-Mail</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('MYSPACE', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/www.myspace.com\/Modules\/PostTo\/Pages\/?t=Cape%20Town%20-%20Overview&amp;c=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;u=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;l=1', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_myspace" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">MySpace</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('FACEBOOK', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/www.facebook.com\/sharer.php?u=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;t=Cape%20Town%20-%20Overview', {height:440, width:620, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_facebook" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Facebook</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('TWITTER', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/twitter.com\/home?status=Dieses%20Video%20musst%20du%20dir%20ansehen%21%20--%20Cape%20Town%20-%20Overview%20http%3A\/\/youtu.be\/kpFp5hhCZ4w', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_twitter" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Twitter</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('ORKUT', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/www.orkut.com\/FavoriteVideos.aspx?u=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_orkut" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">orkut</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('LIVE SPACES', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/spaces.live.com\/BlogIt.aspx?Title=YouTube - Cape%20Town%20-%20Overview&amp;SourceURL=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;description=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_livespaces" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Live Spaces</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BLOGGER', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/www.blogger.com\/blog-this.g?n=Cape%20Town%20-%20Overview&amp;source=youtube&amp;b=%3Cobject%20width%3D%22425%22%20height%3D%22344%22%3E%3Cparam%20name%3D%22movie%22%20value%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowFullScreen%22%20value%3D%22true%22%3E%3C\/param%3E%3Cparam%20name%3D%22allowscriptaccess%22%20value%3D%22always%22%3E%3C\/param%3E%3Cembed%20%20src%3D%22http%3A\/\/www.youtube.com\/v\/kpFp5hhCZ4w%26hl%3Dde_DE%26fs%3D1%22%20type%3D%22application\/x-shockwave-flash%22%20width%3D%22425%22%20height%3D%22344%22%20allowscriptaccess%3D%22always%22%20allowfullscreen%3D%22true%22%3E%3C\/embed%3E%3C\/object%3E&amp;eurl=http%3A\/\/i4.ytimg.com\/vi\/kpFp5hhCZ4w\/hqdefault.jpg', {height:468, width:768, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_blogger" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Blogger</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('BUZZ', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/www.google.com\/buzz\/post?url=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_buzz" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Buzz</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('DIGG', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/digg.com\/submit?phase=2&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;title=Cape%20Town%20-%20Overview&amp;bodytext=Showcasing%20the%20variety%20of%20Attractions%20Cape%20Town%20has%20to%20offer%2C%20including%20Beaches%2C%20Business%2C%20Culture%2C%20Food%2C%20Wine%2C%20Nature%20and%20Art&amp;topic=videos_people', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_digg" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Digg</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('YIGG', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/yigg.de\/neu?exturl=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;exttitle=Cape%20Town%20-%20Overview', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_yigg" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">YiGG</span></button>
+				<button type="button" class="watch-share-button yt-uix-button" onclick="yt.www.watch.sharing.logService('DELICIOUS', 'kpFp5hhCZ4w', 'de_DE');yt.window.popup('http:\/\/del.icio.us\/post?noui&amp;v=4&amp;jump=close&amp;url=http%3A\/\/www.youtube.com\/watch%3Fv%3DkpFp5hhCZ4w&amp;title=Cape%20Town%20-%20Overview&amp;partner=youtube', {height:650, width:1024, scrollbars:true});;return false;" ><img class="yt-uix-button-icon-watch-share icn_share_promoted_delicious" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">del.icio.us</span></button>
+		</div>
+	</div>
+	
+	<div class="clear"></div>
+
+				</div>
+				<div id="watch-actions-area-container" class="collapsed">
+					<div id="watch-actions-area" class="yt-rounded">
+Wird geladen...
+					</div>
+				</div>
+				<div id="watch-actions-close" class="hid">
+					<div class="close"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="master-sprite close-button" onclick="yt.www.watch.watch5.hide();"/></div>
+				</div>
+				<div id="watch-actions-logged-out" class="hid">
+						<strong>Jetzt <a href="https://www.google.com/accounts/ServiceLogin?uilel=3&service=youtube&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&hl=en_US&ltmpl=sso">anmelden</a> oder ein neues <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&ltmpl=sso&hl=de_DE&service=youtube">Konto erstellen</a>!
+</strong>	
+
+				</div>
+				<div id="watch-discussion">
+						<div id="comments-post">
+				<form id="comments-post-form"
+						class="input-collapsed">
+					<textarea class="comments-textarea"
+							onfocus="_addclass(_gel('comments-post-form'), 'input-focused');"
+							onblur="_removeclass(_gel('comments-post-form'), 'input-focused');">
+Auf dieses Video antworten...
+					</textarea>
+					
+	
+	
+	
+	<div  id="comments-post-form-alert" class="yt-alert yt-alert-warn yt-rounded">
+			<img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" class="icon master-sprite" alt="Benachrichtigungssymbol">
+		
+		<div  class="yt-alert-content">
+					<a href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&amp;hl=en_US&amp;ltmpl=sso">Melde dich in deinem Konto an</a> oder <a href="https://www.google.com/accounts/LogoutWarning?continue=http%3A%2F%2Fwww.youtube.com%2Fcreate_account%3Fnext%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&amp;ltmpl=sso&amp;hl=de_DE&amp;service=youtube">melde dich jetzt bei YouTube an</a>, um einen Kommentar zu posten!
+
+		</div>
+		
+	</div>
+
+					<div class="clearR"></div>
+				</form>
+					<a id="watch-comments-sigin" href="https://www.google.com/accounts/ServiceLogin?uilel=3&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26nomobiletemp%3D1%26hl%3Den_US%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DkpFp5hhCZ4w&amp;hl=en_US&amp;ltmpl=sso" style="display: none"></a>
+	</div>
+
+							<div id="comments-view"
+				data-type="highlights"
+				data-owner-viewing=""
+				data-disallow-ratings="False">
+
+						
+			<div class="comments-section">
+				<a class="comments-section-see-all" href="/video_response_view_all?v=kpFp5hhCZ4w">Alles anzeigen</a>
+				<h4>Videoantworten</h4>
+					<div class="comments-section-description">
+Dieses Video ist eine Antwort auf <a href="/watch?v=r5omKu-wC2U&amp;feature=watch_response_rev" >Great White Shark Cage Diving in South Africa</a>
+					</div>
+			</div>
+		
+				
+			<div class="comments-section">
+				<a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=kpFp5hhCZ4w">Alles anzeigen</a>
+					<h4>Alle Kommentare (23)</h4>
+				<ul class="comment-list" >
+									<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATKSTRJaQw6ykylTsafYGwPQF7OYnR7jkYs"
+			data-score="0"
+			data-author="primezz1"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/primezz1" title="primezz1">primezz1</a>
+			</div>
+			<div>
+				<span class="time">vor 4 Tagen</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=nanaofori16">@nanaofori16</a> leave alone with these stupid ignorant europeans. they only think that africa﻿ is all about poverty and aids. it&#39;s the fucking western media that confuses them.the likes of cbs cnbc abc and crap. i don&#39;t like western media. i&#39;m an american, but fuck western media when it comes to africa.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/primezz1">primezz1</a>
+					<span class="time">vor 4 Tagen</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATIU7gE5CiSkkhtLqW3DPJEqQ_0jgRCipt8"
+			data-score="-1"
+			data-author="nanaofori16"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/nanaofori16" title="nanaofori16">nanaofori16</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					Hey clown listen, I won&#39;t be surprise if you are a red neck ass﻿ hole who only understand the language of oppression. How the fuck u compare an old fashioned city like London n other horrible cities in Europe to cape town. G-damn !! The only reason you have such shit to say is that this city is in AFRICA!! You&#39;re﻿ so g-damn pissed it looks NICE and CLEAN and DEVELOPED you don&#39;t know what to do with your Dumb Racist AZZES!!. it hurts when people&#39;s judgment is buried in insincerity and hatred. 
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/nanaofori16">nanaofori16</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATIdKhYNYOC3ySXhkzO3jhCwFwCEaIcJcfA"
+			data-score="0"
+			data-author="trexor5150"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/trexor5150" title="trexor5150">trexor5150</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Woche</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					I just returned from Cape Town last week and it is incredibly beautiful. It has a perfect location next to the sea and Table Mountain. Some parts of the city are﻿ extremely weathly (Aston Martin Dealership) and other areas are riddled with poverty. 
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/trexor5150">trexor5150</a>
+					<span class="time">vor 1 Woche</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATIZFYSglYgU1Y1GWiISEiCLW-loAUASmOs"
+			data-score="-1"
+			data-author="PresidentialMoments"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/PresidentialMoments" title="PresidentialMoments">PresidentialMoments</a>
+			</div>
+			<div>
+				<span class="time">vor 3 Wochen</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					Listen.. The scenery is more beutiful than europe but the city its self cannot be better than a continent.. And you cant tell me cape town is nicer looking than cities like london or venice or paris.. South africa use to be an amazing country with an economy almost better than america under appartheid but now that the blacks rule they destroyed the nation﻿ and now it is as violent as sierra leone and as poor as any other african country.. South africa used to be compared to europe.. Not anymore..
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/PresidentialMoments">PresidentialMoments</a>
+					<span class="time">vor 3 Wochen</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATK2aIeinVbWf8JjmuLu-TjnanZ7WYOgWP0"
+			data-score="0"
+			data-author="eenlangedraak"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/eenlangedraak" title="eenlangedraak">eenlangedraak</a>
+			</div>
+			<div>
+				<span class="time">vor 3 Wochen</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=netix75">@netix75</a> haha no its not, best﻿ city in the world!!
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/eenlangedraak">eenlangedraak</a>
+					<span class="time">vor 3 Wochen</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATIYY4r6Dm4JS6L1hr_uhaXbRqOv7Gs1EhI"
+			data-score="0"
+			data-author="bfbc2recon"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/bfbc2recon" title="bfbc2recon">bfbc2recon</a>
+			</div>
+			<div>
+				<span class="time">vor 3 Wochen</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=jadorefairecaca">@JadoreFaireCaca</a> bitch tell me any country that isnt dangerous...thattt was 2 years ago shit has changed...the police are stepping up...and﻿ its more beautiful than shitty europe
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/bfbc2recon">bfbc2recon</a>
+					<span class="time">vor 3 Wochen</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATKeVO3E4AjyhrO_NgR_wtGJkCjMeNx4axs"
+			data-score="1"
+			data-author="susanbaggs"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/susanbaggs" title="susanbaggs">susanbaggs</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Monat</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					Netix 75, you&#39;re an idiot there&#39;s not much to say, I go to South Africa once a year, as do many others.  You&#39;re just an idiot.<br />Travoobladatel, well, you&#39;re not only an idiot, your soundness of inference about the world around you is so shocking...you&#39;re worse than a baboon.<br />..and JadoreFairecaca...another idiot,so ONE black guy tries to rob you..so ALL black people are like that?...go back to your basement man...youtube really is full of inbreds.<br />(no my email doesn&#39;t work﻿ so dont bother)
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/susanbaggs">susanbaggs</a>
+					<span class="time">vor 1 Monat</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATJ3t0LBNwVYrlaeZNCHX4CBxbsa3rMOEPU"
+			data-score="-6"
+			data-author="Travoobladatel"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="True"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment hidden">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/Travoobladatel" title="Travoobladatel">Travoobladatel</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Monat</span>
+			</div>
+		</div>
+		<div class="content">
+					<div class="comment-show-hide">
+						<span class="hide-mode">
+	<a href="#" class="show" onclick="yt.www.comments.watch5.display(this, true); return false;">Anzeigen</a>
+	<a href="#" class="hide" onclick="yt.www.comments.watch5.display(this, false); return false;">Ausblenden</a>
+</span>
+
+					</div>
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=jadorefairecaca">@JadoreFaireCaca</a> Niggers﻿ will destroy that beautiful country.
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/Travoobladatel">Travoobladatel</a>
+					<span class="time">vor 1 Monat</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATIfPccvUFRfo9DeQeJQAUY3kLo8WIIZqk8"
+			data-score="0"
+			data-author="iEcon77"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/iEcon77" title="iEcon77">iEcon77</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Monat</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					<a class="watch-comment-atlink" href="/comment_search?username=jadorefairecaca">@JadoreFaireCaca</a>, All countries have more dangerous areas. I am﻿ truly sorry for what happened to you, and admit that SA do have high crime rates, especially in Johannesburg. Cape Town is however much less risky. Crime has been decreasing each year for many years, and if you stay out of the dangerous areas, you are no more at risk than in London or New York!
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/iEcon77">iEcon77</a>
+					<span class="time">vor 1 Monat</span>
+				</div>
+		</div>
+	</li>
+ 
+				<li 
+			data-author-viewing=""
+			data-id="ggBxRSOKATKO2TgrjanKIG7edH-b_lE1Zi4wQMSmqUo"
+			data-score="0"
+			data-author="Fjojszi"
+			data-pending="0"
+			data-blocked=""
+			data-flagged="False"
+			data-removed="False"
+				data-tag="N"
+			onmouseover="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			onmouseout="if (yt.www) yt.www.comments.watch5.handleCommentMouseEvent(this, event);"
+			class="comment">
+		<div class="metadata">
+			<div>
+				<a class="author" href="/user/Fjojszi" title="Fjojszi">Fjojszi</a>
+			</div>
+			<div>
+				<span class="time">vor 1 Monat</span>
+			</div>
+		</div>
+		<div class="content">
+
+				<div class="comment-text">
+					na﻿ ide szivesebben elmennék mint a balatonra:D akármilyen drága is lehet:D
+				</div>
+
+				
+				<div class="metadata-inline">
+					<a class="author" href="/user/Fjojszi">Fjojszi</a>
+					<span class="time">vor 1 Monat</span>
+				</div>
+		</div>
+	</li>
+ 
+
+				</ul>
+			</div>
+		
+					<div class="comments-section">
+			<a class="comments-section-see-all" href="/comment_servlet?all_comments=1&amp;v=kpFp5hhCZ4w">Alle Kommentare anzeigen &raquo;</a>
+			<div class="comments-pagination">
+						
+	
+		<div class="yt-uix-pager">
+
+
+			<button href="/comment_servlet?all_comments=1&amp;v=kpFp5hhCZ4w&amp;page=1" type="button" class="yt-uix-pager-selected yt-uix-button" onclick="return false;;window.location.href=this.getAttribute('href');return false;" data-page="1"><span class="yt-uix-button-content">1</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=kpFp5hhCZ4w&amp;page=2" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="2"><span class="yt-uix-button-content">2</span></button>&nbsp;
+			<button href="/comment_servlet?all_comments=1&amp;v=kpFp5hhCZ4w&amp;page=3" type="button" class=" yt-uix-button" onclick="return yt.www.comments.watch5.showPageFromElement(this);;window.location.href=this.getAttribute('href');return false;" data-page="3"><span class="yt-uix-button-content">3</span></button>&nbsp;
+
+					<a href="/comment_servlet?all_comments=1&v=kpFp5hhCZ4w&page=2" class="yt-uix-pager-link" data-page="2" onclick="return yt.www.comments.watch5.showPageFromElement(this);">Weiter</a>
+
+		</div>
+
+
+			</div>
+	</div>
+
+		</div>
+			<div id="comments-actions">
+		<div>
+<button type="button" class="master-sprite yt-uix-button" onclick=";return false;" data-button-action="yt.www.comments.watch5.reply"><img class="yt-uix-button-icon-watch-comment-reply" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> <span class="yt-uix-button-content">Antworten</span></button><button title="Positiv abstimmen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-up" data-vote-increment="1" data-button-action="yt.www.comments.watch5.vote"><img class="yt-uix-button-icon-watch-comment-vote-up" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button><button title="Negativ abstimmen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" id="watch-comment-vote-down" data-vote-increment="-1" data-button-action="yt.www.comments.watch5.vote"><img class="yt-uix-button-icon-watch-comment-vote-down" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button><button type="button" class="master-sprite yt-uix-button yt-uix-tooltip" onclick=";return false;" title="Als Spam melden" data-button-action="yt.www.comments.watch5.flag"><img class="yt-uix-button-icon-watch-comment-flag" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>		</div>
+		<div>
+<button type="button" id="watch-comment-block-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.block"><span class="yt-uix-button-content">Nutzer blockieren</span></button><button type="button" id="watch-comment-unblock-user" onclick=";return false;" class=" yt-uix-button" data-button-action="yt.www.comments.watch5.unblock"><span class="yt-uix-button-content">Blockierung des Nutzers aufheben</span></button><button onclick=";return false;" title="Entfernen" type="button" class="master-sprite yt-uix-button yt-uix-tooltip" id="watch-comment-remove-link" ><img class="yt-uix-button-icon-watch-comment-remove" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""> </button>		</div>
+	</div>
+
+		<div id="comments-loading" class="hid">Wird geladen...</div>
+
+				</div>
+			</div>
+
+			<div id="watch-sidebar">
+				
+
+	
+
+			<div class="watch-passive-list yt-uix-expander yt-uix-expander-animated yt-uix-expander-collapsed watch-module watch-module-expandable hid"
+				id="watch-passive-QL"
+				data-expander-action="yt.www.watch.watch5.togglePassiveList"
+				data-expander-ajax-link="/list_ajax?action_get_quicklist=1">
+		<h3 class="yt-uix-expander-head watch-module-head yt-rounded-top yt-rounded-bottom">
+			<button class="yt-uix-expander-arrow master-sprite" onclick="return false;"></button>
+			<span class="watch-module-expanded-title-wrapper"><span class="watch-module-expanded-title">
+Warteschlange (<span id="watch-passive-QL-count">0</span>)
+			</span></span>
+		</h3>
+		<div class="yt-uix-expander-body watch-module-body yt-rounded-bottom">
+			<div id="watch-passive-QL-body" class="watch-module-body-inner" onscroll="yt.net.delayed.load('next-list');">
+				<div id="watch-passive-QL-body-loading" class="watch-passive-list-body-loading">Wird geladen...</div>
+			</div>
+</div>
+</div>
+
+	
+	<div class="watch-module">
+		<div class="watch-module-body">
+			
+
+			<ul id="watch-related" class="video-list">
+						<li class="video-list-item  watch-ppv-vid" ><a class="video-list-item-link" href="/watch?v=qKk14vPGARs&amp;feature=fvw">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-qKk14vPGARs-3911116"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/qKk14vPGARs/default.jpg" onclick="ieThumbEvent(event, this); " title="south africa: helicopter ride over cape town"></span><span class="video-time">1:19</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-qKk14vPGARs-3911116', null, 'qKk14vPGARs', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="south africa: helicopter ride over cape town">south africa: helicopter ride over cape town</span><span class="stat">32.614 Aufrufe</span><span class="stat alt">Vorgestelltes Video</span><span class="stat">karmagrrrl</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=FfD--MHTddE&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-FfD--MHTddE-873446"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/FfD--MHTddE/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town - Lifestyle"></span><span class="video-time">1:09</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-FfD--MHTddE-873446', null, 'FfD--MHTddE', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town - Lifestyle">Cape Town - Lifestyle</span><span class="stat">6.764 Aufrufe</span><span class="stat">CapeTownTourism</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=t1tZ4fNufC8&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-t1tZ4fNufC8-3048679"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/t1tZ4fNufC8/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town"></span><span class="video-time">8:24</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-t1tZ4fNufC8-3048679', null, 't1tZ4fNufC8', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town">Cape Town</span><span class="stat">57.948 Aufrufe</span><span class="stat">joejourneys</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=FEWwzm53vlg&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-FEWwzm53vlg-4992790"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/FEWwzm53vlg/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town 2010 - A city reimagined"></span><span class="video-time">2:25</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-FEWwzm53vlg-4992790', null, 'FEWwzm53vlg', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town 2010 - A city reimagined">Cape Town 2010 - A city reimagined</span><span class="stat">11.116 Aufrufe</span><span class="stat">capetown2020</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=vaHwnFG9CAU&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-vaHwnFG9CAU-4563542"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/vaHwnFG9CAU/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town"></span><span class="video-time">9:55</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-vaHwnFG9CAU-4563542', null, 'vaHwnFG9CAU', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town">Cape Town</span><span class="stat">2.081 Aufrufe</span><span class="stat">ruby2cubes</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=MSelk6lQDuE&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-MSelk6lQDuE-7164912"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/MSelk6lQDuE/default.jpg" onclick="ieThumbEvent(event, this); " title="Clifton Beach - Cape Town, South Africa"></span><span class="video-time">0:42</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-MSelk6lQDuE-7164912', null, 'MSelk6lQDuE', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Clifton Beach - Cape Town, South Africa">Clifton Beach - Cape Town, South Africa</span><span class="stat">1.571 Aufrufe</span><span class="stat">SmartGuide1</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=s2O_qdyVFtY&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-s2O_qdyVFtY-4030099"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/s2O_qdyVFtY/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town 2"></span><span class="video-time">0:44</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-s2O_qdyVFtY-4030099', null, 's2O_qdyVFtY', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town 2">Cape Town 2</span><span class="stat">3.364.817 Aufrufe</span><span class="stat">kokonutz2</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=M4ALstwYkTM&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-M4ALstwYkTM-1879514"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/M4ALstwYkTM/default.jpg" onclick="ieThumbEvent(event, this); " title="Vista Point  CAPE TOWN South Africa"></span><span class="video-time">1:34</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-M4ALstwYkTM-1879514', null, 'M4ALstwYkTM', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Vista Point  CAPE TOWN South Africa">Vista Point  CAPE TOWN South Africa</span><span class="stat">27.180 Aufrufe</span><span class="stat">TravelVideoStore</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=r5omKu-wC2U&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-r5omKu-wC2U-9686380"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/r5omKu-wC2U/default.jpg" onclick="ieThumbEvent(event, this); " title="Great White Shark Cage Diving in South Africa"></span><span class="video-time">2:39</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-r5omKu-wC2U-9686380', null, 'r5omKu-wC2U', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Great White Shark Cage Diving in South Africa">Great White Shark Cage Diving in South Africa</span><span class="stat">6.087.187 Aufrufe</span><span class="stat">capetownmoviemakers</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=dJsNsCcJIn4&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-dJsNsCcJIn4-4338842"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/dJsNsCcJIn4/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town, South Africa, Long Street"></span><span class="video-time">2:31</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-dJsNsCcJIn4-4338842', null, 'dJsNsCcJIn4', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town, South Africa, Long Street">Cape Town, South Africa, Long Street</span><span class="stat">4.918 Aufrufe</span><span class="stat">ruby2cubes</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=A6e8rs3ZQaY&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-A6e8rs3ZQaY-3538289"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/A6e8rs3ZQaY/default.jpg" onclick="ieThumbEvent(event, this); " title="South Africa, Western Cape, Cape Town Tourism"></span><span class="video-time">3:34</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-A6e8rs3ZQaY-3538289', null, 'A6e8rs3ZQaY', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="South Africa, Western Cape, Cape Town Tourism">South Africa, Western Cape, Cape Town Tourism</span><span class="stat">3.453 Aufrufe</span><span class="stat">ikabot007</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=nWVc_jmuf7w&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-nWVc_jmuf7w-4564782"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/nWVc_jmuf7w/default.jpg" onclick="ieThumbEvent(event, this); " title="shuttle landing in Cape Town"></span><span class="video-time">3:19</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-nWVc_jmuf7w-4564782', null, 'nWVc_jmuf7w', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="shuttle landing in Cape Town">shuttle landing in Cape Town</span><span class="stat">882.074 Aufrufe</span><span class="stat">VENACARVA2</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=A93IEF6Q9VU&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-A93IEF6Q9VU-1368864"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/A93IEF6Q9VU/default.jpg" onclick="ieThumbEvent(event, this); " title="Capetown - Let It Go"></span><span class="video-time">3:56</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-A93IEF6Q9VU-1368864', null, 'A93IEF6Q9VU', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Capetown - Let It Go">Capetown - Let It Go</span><span class="stat">458.756 Aufrufe</span><span class="stat">jujurec</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=CHrcboU5nBc&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-CHrcboU5nBc-2346567"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/CHrcboU5nBc/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town | South Africa"></span><span class="video-time">1:00</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-CHrcboU5nBc-2346567', null, 'CHrcboU5nBc', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town | South Africa">Cape Town | South Africa</span><span class="stat">16.321 Aufrufe</span><span class="stat">SouthAfricanTourism</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=ctQsR98Zsgw&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-ctQsR98Zsgw-1162399"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/ctQsR98Zsgw/default.jpg" onclick="ieThumbEvent(event, this); " title="South Africa is a rainbow nation and is home to the big five"></span><span class="video-time">2:31</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-ctQsR98Zsgw-1162399', null, 'ctQsR98Zsgw', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="South Africa is a rainbow nation and is home to the big five">South Africa is a rainbow nation and is home to...</span><span class="stat">4.880 Aufrufe</span><span class="stat">travelguide8O0</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=gOGqkmYAi_E&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-gOGqkmYAi_E-1769925"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i4.ytimg.com/vi/gOGqkmYAi_E/default.jpg" onclick="ieThumbEvent(event, this); " title="Dj M.A.N.D.Y - PUT PUT PUT"></span><span class="video-time">4:02</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-gOGqkmYAi_E-1769925', null, 'gOGqkmYAi_E', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Dj M.A.N.D.Y - PUT PUT PUT">Dj M.A.N.D.Y - PUT PUT PUT</span><span class="stat">25.193 Aufrufe</span><span class="stat">Weedensvenner</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=lTKFBPM4GNg&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-lTKFBPM4GNg-5720686"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/lTKFBPM4GNg/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Flats - Cape Town - South Africa hip hop"></span><span class="video-time">4:12</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-lTKFBPM4GNg-5720686', null, 'lTKFBPM4GNg', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Flats - Cape Town - South Africa hip hop">Cape Flats - Cape Town - South Africa hip hop</span><span class="stat">39.991 Aufrufe</span><span class="stat">juma4</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=DVGbf3yIsI0&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-DVGbf3yIsI0-5824910"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i1.ytimg.com/vi/DVGbf3yIsI0/default.jpg" onclick="ieThumbEvent(event, this); " title="Classy Cape Town"></span><span class="video-time">3:58</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-DVGbf3yIsI0-5824910', null, 'DVGbf3yIsI0', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Classy Cape Town">Classy Cape Town</span><span class="stat">68.586 Aufrufe</span><span class="stat">TravelChannelVOD</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=Ba3uc7S3Gv4&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-Ba3uc7S3Gv4-2810693"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i3.ytimg.com/vi/Ba3uc7S3Gv4/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town, Westen Cape - South Africa"></span><span class="video-time">0:50</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-Ba3uc7S3Gv4-2810693', null, 'Ba3uc7S3Gv4', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town, Westen Cape - South Africa">Cape Town, Westen Cape - South Africa</span><span class="stat">253 Aufrufe</span><span class="stat">SmartGuide1</span></a></li>
+
+
+						<li class="video-list-item " ><a class="video-list-item-link" href="/watch?v=qF4ONOimvns&amp;feature=related">	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+			
+	
+		
+
+		
+
+<span class="video-thumb ux-thumb-94" id="video-thumb-qF4ONOimvns-5661109"><span class="img"><img src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" thumb="http://i2.ytimg.com/vi/qF4ONOimvns/default.jpg" onclick="ieThumbEvent(event, this); " title="Cape Town Travel &amp; Tours Photo Album South Africa Part 1"></span><span class="video-time">1:11</span><span class="video-actions"><button type="button" class=" yt-uix-button yt-uix-button-short yt-uix-button-arrowbutton" onclick=";return false;" > <img class="yt-uix-button-arrow" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif" alt=""><ul style="display:none;" class="yt-uix-button-menu yt-uix-button-menu-short"><li><span class=" yt-uix-button-menu-item" onclick="yt.www.watch.quicklist.clickedAddIcon_w5('video-thumb-qF4ONOimvns-5661109', null, 'qF4ONOimvns', '', '');return false;" >Zur Warteschlange hinzufügen</span></li></ul></button></span><span class="video-in-quicklist">Zur Warteschlange <br/> hinzugefügt</span></span>
+<span  class="title " title="Cape Town Travel &amp; Tours Photo Album South Africa Part 1">Cape Town Travel &amp; Tours Photo Album South Afri...</span><span class="stat">28.280 Aufrufe</span><span class="stat">capetowndtours</span></a></li>
+
+
+			</ul>
+		</div>
+	</div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+		<form method="post" action="/watch_ajax" name="likeForm" class="hid">
+		
+		<input type="hidden" name="action_like_video" value="1" />
+		<input type="hidden" name="video_id" value="kpFp5hhCZ4w" />
+	</form>
+	<form method="post" action="/watch_ajax" name="unlikeForm" class="hid">
+		
+		<input type="hidden" name="action_dislike_video" value="1" />
+		<input type="hidden" name="video_id" value="kpFp5hhCZ4w" />
+	</form>
+	<div id="watch-add-faves" style="display: none;">
+		<img class="watch-check-grn-circle" src="http://s.ytimg.com/yt/img/pixel-vfl73.gif">
+		<span class="watch-action-response">
+Dieses Video wurde zu deinen <a href="/my_favorites">Favoriten</a> <strong>hinzugefügt</strong>.
+		</span>
+	</div>
+	<div id="watch-remove-faves" style="display: none;">
+		<span class="watch-action-response hid">
+Dieses Video wurde aus deinen <a href="/my_favorites">Favoriten</a> <strong>entfernt</strong>.
+		</span>
+		<span class="watch-action-response">
+Du magst dieses Video nicht. Danke für dein Feedback!
+		</span>
+	</div>
+
+	<div id="watch-search">
+	<div id="search-section-header">
+		<span id="watch-search-options" class="floatL"></span>
+		<span class="name">
+			<span class="search-query">&ldquo;<span id="watch-search-query"></span>&rdquo;</span>
+Ergebnisse
+			<span id="watch-search-count"></span>
+		</span>
+		<div class="clear"></div>
+	</div>
+	<div id="watch-search-body-loading">
+		<div class="watch-next-list-body-loading">Wird geladen...</div>
+	</div>
+	<div id="watch-search-body"></div>
+</div>
+
+	<div id="baseDiv" style="visibility: hidden; height: 0px; padding: 0px; overflow: hidden;"></div>
+	<!-- end contentbottom section -->
+	</div>
+
+	</div>
+	<div id="pagebottom">
+		<!-- begin pagebottom section -->
+		<div id="footer-container">
+				<div id="footer">
+		<ul class="footer-links">
+			<li><a href="http://www.google.com/support/youtube/bin/static.py?p=watch&amp;page=start.cs&amp;hl=de_DE">Hilfe</a>
+</li>
+			<li><a href="/t/about">Info</a></li>
+			<li><a href="http://www.google.com/support/youtube/bin/request.py?contact_type=abuse&hl=de_DE">Sicherheit</a></li>
+			<li><a href="/t/privacy_at_youtube">Datenschutz</a></li>
+			<li><a href="/t/terms">Nutzungsbedingungen</a></li>
+			<li><a href="/t/dmca_policy">Urheberrecht</a></li>
+				<li><a href="/t/uploaders_partners">Uploader und Partner</a></li>
+				<li><a href="http://code.google.com/apis/youtube/overview.html">Entwickler</a></li>
+			<li><a href="/t/advertising" onmousedown="yt.analytics.trackEvent('Footer', 'link', 'Advertising');">Werbung</a></li>
+		</ul>
+			<ul class="pickers">
+			<li>Sprache:
+	<a href="#" onclick="yt.www.masthead.loadPicker('language-picker', ''); return false;">Deutsch</a>
+</li>
+			<li>Standort:
+	<a href="#" onclick="yt.www.masthead.loadPicker('region-picker', ''); return false;">Deutschland</a>
+</li>
+			<li>Sicherer Modus:
+	<a href="#" onclick="yt.www.masthead.loadPicker('safetymode-picker', ''); return false;">
+
+Aus
+
+	</a>
+</li>
+	</ul>
+		<div id="picker-container"></div>
+	<div id="picker-loading" style="display: none">Wird geladen...</div>
+
+
+	</div>
+
+		</div>
+		<!-- end pagebottom section -->
+	</div>
+
+	</div>
+					<script id="www-core-js" src="http://s.ytimg.com/yt/jsbin/www-core-vfl178338.js"></script>
+
+
+	<!-- begin postpage section -->
+	<script>
+		if (window['gYouTubePlayerReady']) {
+			onYouTubePlayerReady();
+			yt.registerGlobal('gYouTubePlayerReady');
+		}
+		
+		yt.setConfig({
+			'XSRF_TOKEN': 'nOS8mUrWrOlORCW4DosFg0e0LfJ8MTI4MDE4MDM2Mw==',
+			'XSRF_FIELD_NAME': 'session_token'
+		});
+		yt.pubsub.subscribe('init', yt.www.xsrf.populateSessionToken);
+
+
+		yt.setConfig('XSRF_QL_PAIR', 'session_token=X_4peKK7XEsl8b6WQcHXFrTvUXN8MA==');
+
+
+
+		yt.setConfig('LOGGED_IN', false);
+	</script>
+
+				<script>
+		(function() {
+			var swfConfig = {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 94, "rv.2.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/t1tZ4fNufC8\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=qKk14vPGARs", "rv.0.view_count": 32614, "enablecsi": "1", "rv.2.title": "Cape Town", "rv.6.author": "kokonutz2", "rv.3.view_count": 11116, "is_doubleclick_tracked": "1", "rv.4.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/vaHwnFG9CAU\/default.jpg", "fmt_url_map": "35|http:\/\/v21.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3&factor=1.25&id=929169e61842678c,34|http:\/\/v11.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560&factor=1.25&id=929169e61842678c,5|http:\/\/v2.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982&factor=1.25&id=929169e61842678c", "csi_page_type": "watch", "keywords": "Attractions,Cape Town,Beaches,Business,Culture,Food,Wine,Nature,Art", "cr": "DE", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=FfD--MHTddE", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/s2O_qdyVFtY\/default.jpg", "rv.3.rating": "4.45454545455", "fmt_list": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "M4ALstwYkTM", "iv_storage_server": "http:\/\/www.google.com\/reviews\/y\/", "creator": "CapeTownTourism", "rv.0.rating": "4.95", "rv.4.rating": "4.42857142857", "rv.3.title": "Cape Town 2010 - A city reimagined", "rv.5.id": "MSelk6lQDuE", "rv.0.featured": 1, "rv.0.id": "qKk14vPGARs", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=MSelk6lQDuE", "rv.6.length_seconds": 44, "timestamp": 1280093963, "rv.0.author": "karmagrrrl", "iv_load_policy": 1, "rv.2.author": "joejourneys", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=s2O_qdyVFtY", "fmt_map": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "de_DE", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vfl178359.swf", "rv.0.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/qKk14vPGARs\/default.jpg", "rv.5.length_seconds": 42, "rv.0.length_seconds": 79, "rv.3.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/FEWwzm53vlg\/default.jpg", "rv.7.author": "TravelVideoStore", "rv.1.length_seconds": 69, "rv.3.id": "FEWwzm53vlg", "rv.2.id": "t1tZ4fNufC8", "rv.2.length_seconds": 504, "t": "vjVQa1PpcFN5cd9_cb1uuHxcoMW8psYxc0Kcekl2XCM=", "rv.6.id": "s2O_qdyVFtY", "vq": "auto", "rv.6.view_count": 3364817, "rv.3.author": "capetown2020", "rv.4.id": "vaHwnFG9CAU", "fexp": "907028", "rv.4.author": "ruby2cubes", "rv.7.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/M4ALstwYkTM\/default.jpg", "allow_embed": 1, "fmt_stream_map": "35|http:\/\/v21.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3&factor=1.25&id=929169e61842678c||tc.v21.cache1.c.youtube.com,34|http:\/\/v11.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560&factor=1.25&id=929169e61842678c||tc.v11.cache1.c.youtube.com,5|http:\/\/v2.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982&factor=1.25&id=929169e61842678c||tc.v2.cache5.c.youtube.com", "rv.2.rating": "4.609375", "rv.7.title": "Vista Point  CAPE TOWN South Africa", "rv.1.id": "FfD--MHTddE", "rv.6.title": "Cape Town 2", "rv.4.length_seconds": 595, "rv.7.view_count": 27180, "rv.5.view_count": 1571, "length_seconds": 146, "enablejsapi": 1, "video_id": "kpFp5hhCZ4w", "plid": "AASMPRn7W6nqamvQ", "iv_module": "http:\/\/s.ytimg.com\/yt\/swf\/iv_module-vfl178376.swf", "rv.5.rating": "4.0", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=vaHwnFG9CAU", "rv.1.author": "CapeTownTourism", "rv.1.rating": "4.8", "rv.4.title": "Cape Town", "rv.5.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/MSelk6lQDuE\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl107009.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfl101609.swf", "rv.0.title": "south africa: helicopter ride over cape town", "iv3_module": "http:\/\/s.ytimg.com\/yt\/swf\/iv3_module-vfl178380.swf", "rv.7.rating": "4.52941176471", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=FEWwzm53vlg", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=t1tZ4fNufC8", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=M4ALstwYkTM", "rv.2.view_count": 57948, "rv.4.view_count": 2081, "playerh": 640, "rv.1.view_count": 6764, "rv.5.title": "Clifton Beach - Cape Town, South Africa", "rv.6.rating": "4.27644569817", "sk": "fal0tGAOzcmbTu9fkHPWNMIScoXL_sZbC", "rv.1.title": "Cape Town - Lifestyle", "playerw": 360, "rv.1.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/FfD--MHTddE\/default.jpg", "rv.3.length_seconds": 145, "rv.5.author": "SmartGuide1"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl175721.swf"};
+			var forceUpdate = false;
+			yt.setConfig('SWF_CONFIG', swfConfig);
+			yt.setMsg('FLASH_UPGRADE', '\n\t\n\t\n\t\n\t<div  class=\"yt-alert yt-alert-error yt-alert-player yt-rounded\">\n\t\t\t<img src=\"http:\/\/s.ytimg.com\/yt\/img\/pixel-vfl73.gif\" class=\"icon master-sprite\" alt=\"Benachrichtigungssymbol\">\n\t\t\n\t\t<div  class=\"yt-alert-content\">\n\t\t\t\t\t\tDu musst deinen Adobe Flash Player aktualisieren, damit du dieses Video ansehen kannst. <br> <a href=\"http:\/\/get.adobe.com\/flashplayer\/\">Du kannst den Player von Adobe herunterladen.<\/a>\n\t\t<\/div>\n\t\t\n\t<\/div>\n');
+			yt.flash.update(swfConfig, forceUpdate);
+		})();
+	</script>
+		
+
+
+
+	<script>
+		document.title = 'YouTube - Cape Town - Overview';
+
+		yt.setConfig({
+			'VIDEO_ID': 'kpFp5hhCZ4w',
+			'VIDEO_USERNAME': 'CapeTownTourism',
+			'VIDEO_LANGUAGE': 'EN',
+			'BLOCK_USER_XSRF': '',
+			'SUBSCRIBE_AXC': '',
+
+			'IS_WIDESCREEN': false,
+			'IS_HD_AVAILABLE': false,
+			'PREFER_LOW_QUALITY': false,
+			'WIDE_PLAYER_STYLES': ["watch-wide-mode"],
+			'EMBED_URL': 'http:\/\/www.youtube.com\/v\/kpFp5hhCZ4w&hl=de_DE&fs=1',
+			'SHARE_URL': 'http:\/\/www.youtube.com\/watch?v=kpFp5hhCZ4w',
+			'SHARE_URL_SHORT': 'http:\/\/youtu.be\/kpFp5hhCZ4w',
+			'ALLOW_EMBED': true,
+			'ALLOW_RATINGS': true,
+			'AJAX_MODE': false,
+			'SEARCH_ON_WATCH_MODE': false,
+			'SEARCH_ON_WATCH_TINY_UI': false,
+
+			'HAS_ACTIVE_QUICKLIST': false,
+
+			'LIST_PLAY_NEXT_URL': null,
+			'LIST_PLAY_NEXT_URL_WITH_SHUFFLE': null,
+			'LIST_AUTO_PLAY_ON': false,
+			'LIST_AUTO_PLAY_VALUE': 1,
+			'SHOW_NEXT_BUTTON': false,
+			'SHUFFLE_VALUE': null,
+			'SHUFFLE_ENABLED': false,
+			'SEQUENTIAL_VIDEO_LIST': [],
+			'SHUFFLED_VIDEO_LIST': [],
+
+			'LOCALE' : 'DE',
+			'LANGUAGE' : 'de',
+
+			'SHOW_SUBSCRIBE_UPSELL': true,
+
+			'WATCH5': true,
+			
+
+			'STAGED_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_640x25-vfl148884.png",
+			'STAGED_WIDE_PLAYER_CONTROLS_URI': "http://s.ytimg.com/yt/img/watch/pic_disabled_controls_854x25-vfl148884.png",
+			'GUIDED_HELP_FLOW': 172459,
+			'VIDEO_HQ_THUMB': 'http://i4.ytimg.com/vi/kpFp5hhCZ4w/hqdefault.jpg',
+			'GUIDED_HELP_LOCALE': 'de_DE',
+			'PLAY_ALL_MAX': 45,
+			'PLAYER_CONFIG': {"url": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "min_version": "8.0.0", "args": {"rv.7.length_seconds": 94, "rv.2.thumbnailUrl": "http:\/\/i1.ytimg.com\/vi\/t1tZ4fNufC8\/default.jpg", "rv.0.url": "http:\/\/www.youtube.com\/watch?v=qKk14vPGARs", "rv.0.view_count": 32614, "enablecsi": "1", "rv.2.title": "Cape Town", "rv.6.author": "kokonutz2", "rv.3.view_count": 11116, "is_doubleclick_tracked": "1", "rv.4.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/vaHwnFG9CAU\/default.jpg", "fmt_url_map": "35|http:\/\/v21.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3&factor=1.25&id=929169e61842678c,34|http:\/\/v11.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560&factor=1.25&id=929169e61842678c,5|http:\/\/v2.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982&factor=1.25&id=929169e61842678c", "csi_page_type": "watch", "keywords": "Attractions,Cape Town,Beaches,Business,Culture,Food,Wine,Nature,Art", "cr": "DE", "rv.1.url": "http:\/\/www.youtube.com\/watch?v=FfD--MHTddE", "rv.6.thumbnailUrl": "http:\/\/i4.ytimg.com\/vi\/s2O_qdyVFtY\/default.jpg", "rv.3.rating": "4.45454545455", "fmt_list": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "rv.7.id": "M4ALstwYkTM", "iv_storage_server": "http:\/\/www.google.com\/reviews\/y\/", "creator": "CapeTownTourism", "rv.0.rating": "4.95", "rv.4.rating": "4.42857142857", "rv.3.title": "Cape Town 2010 - A city reimagined", "rv.5.id": "MSelk6lQDuE", "rv.0.featured": 1, "rv.0.id": "qKk14vPGARs", "rv.5.url": "http:\/\/www.youtube.com\/watch?v=MSelk6lQDuE", "rv.6.length_seconds": 44, "timestamp": 1280093963, "rv.0.author": "karmagrrrl", "iv_load_policy": 1, "rv.2.author": "joejourneys", "rv.6.url": "http:\/\/www.youtube.com\/watch?v=s2O_qdyVFtY", "fmt_map": "35\/854x480\/9\/0\/115,34\/640x360\/9\/0\/115,5\/320x240\/7\/0\/0", "showpopout": 1, "hl": "de_DE", "endscreen_module": "http:\/\/s.ytimg.com\/yt\/swf\/endscreen-vfl178359.swf", "rv.0.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/qKk14vPGARs\/default.jpg", "rv.5.length_seconds": 42, "rv.0.length_seconds": 79, "rv.3.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/FEWwzm53vlg\/default.jpg", "rv.7.author": "TravelVideoStore", "rv.1.length_seconds": 69, "rv.3.id": "FEWwzm53vlg", "rv.2.id": "t1tZ4fNufC8", "rv.2.length_seconds": 504, "t": "vjVQa1PpcFN5cd9_cb1uuHxcoMW8psYxc0Kcekl2XCM=", "rv.6.id": "s2O_qdyVFtY", "vq": "auto", "rv.6.view_count": 3364817, "rv.3.author": "capetown2020", "rv.4.id": "vaHwnFG9CAU", "fexp": "907028", "rv.4.author": "ruby2cubes", "rv.7.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/M4ALstwYkTM\/default.jpg", "allow_embed": 1, "fmt_stream_map": "35|http:\/\/v21.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=35&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=8C7FC81C806D711B98ACBE11E5AEBB148BFCCD0C.95111B78DA8E6DE1B0B134D11571E21EC2D69BC3&factor=1.25&id=929169e61842678c||tc.v21.cache1.c.youtube.com,34|http:\/\/v11.lscache1.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=34&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=34EC936047CC2ED3A2CE8C66262A56FFF2D75B27.C87EF4242E47EF1DB5BF7E47654617A1EEC50560&factor=1.25&id=929169e61842678c||tc.v11.cache1.c.youtube.com,5|http:\/\/v2.lscache5.c.youtube.com\/videoplayback?ip=217.0.0.0&sparams=id%2Cexpire%2Cip%2Cipbits%2Citag%2Calgorithm%2Cburst%2Cfactor&fexp=907028&algorithm=throttle-factor&itag=5&ipbits=8&burst=40&sver=3&expire=1280116800&key=yt1&signature=075BBE450C001438E7407DCB0FB981B5FD23D1C4.1B6C55ECD289D0E234322B20095DEE1598E29982&factor=1.25&id=929169e61842678c||tc.v2.cache5.c.youtube.com", "rv.2.rating": "4.609375", "rv.7.title": "Vista Point  CAPE TOWN South Africa", "rv.1.id": "FfD--MHTddE", "rv.6.title": "Cape Town 2", "rv.4.length_seconds": 595, "rv.7.view_count": 27180, "rv.5.view_count": 1571, "length_seconds": 146, "enablejsapi": 1, "video_id": "kpFp5hhCZ4w", "plid": "AASMPRn7W6nqamvQ", "iv_module": "http:\/\/s.ytimg.com\/yt\/swf\/iv_module-vfl178376.swf", "rv.5.rating": "4.0", "rv.4.url": "http:\/\/www.youtube.com\/watch?v=vaHwnFG9CAU", "rv.1.author": "CapeTownTourism", "rv.1.rating": "4.8", "rv.4.title": "Cape Town", "rv.5.thumbnailUrl": "http:\/\/i2.ytimg.com\/vi\/MSelk6lQDuE\/default.jpg", "watermark": "http:\/\/s.ytimg.com\/yt\/swf\/logo-vfl107009.swf,http:\/\/s.ytimg.com\/yt\/swf\/hdlogo-vfl101609.swf", "rv.0.title": "south africa: helicopter ride over cape town", "iv3_module": "http:\/\/s.ytimg.com\/yt\/swf\/iv3_module-vfl178380.swf", "rv.7.rating": "4.52941176471", "rv.3.url": "http:\/\/www.youtube.com\/watch?v=FEWwzm53vlg", "rv.2.url": "http:\/\/www.youtube.com\/watch?v=t1tZ4fNufC8", "rv.7.url": "http:\/\/www.youtube.com\/watch?v=M4ALstwYkTM", "rv.2.view_count": 57948, "rv.4.view_count": 2081, "playerh": 640, "rv.1.view_count": 6764, "rv.5.title": "Clifton Beach - Cape Town, South Africa", "rv.6.rating": "4.27644569817", "sk": "fal0tGAOzcmbTu9fkHPWNMIScoXL_sZbC", "rv.1.title": "Cape Town - Lifestyle", "playerw": 360, "rv.1.thumbnailUrl": "http:\/\/i3.ytimg.com\/vi\/FfD--MHTddE\/default.jpg", "rv.3.length_seconds": 145, "rv.5.author": "SmartGuide1"}, "url_v9as2": "http:\/\/s.ytimg.com\/yt\/swf\/watch-vfl175721.swf", "params": {"allowscriptaccess": "always", "allowfullscreen": "true", "bgcolor": "#000000"}, "attrs": {"width": "640", "id": "movie_player", "height": "385"}, "url_v8": "http:\/\/s.ytimg.com\/yt\/swf\/watch_v8-vfl175721.swf"}
+		});
+
+		yt.setMsg({
+			'LOADING': 'Wird geladen...',
+			'AUTOPLAY_ON': 'Autom. Wiedergabe (ein)',
+			'AUTOPLAY_OFF': 'Autom. Wiedergabe (aus)',
+			'SHUFFLE_ON': 'Zufallswiedergabe (ein)',
+			'SHUFFLE_OFF': 'Zufallswiedergabe (aus)',
+			'SUBSCRIBE_UPSELL_MESSAGE': 'Wenn dir das Video von CapeTownTourism gefällt, abonniere es!\n',
+			'QUEUE_EMPTY': 'Du kannst ein Video zu deiner Warteschlange hinzufügen, indem du die Option im Menü des Video-Thumbnails auswählst.',  			'QUEUE_CLEAR': 'Möchtest du wirklich fortfahren?',
+			'ADD_TO_WATCH_QUEUE': 'Zur Warteschlange hinzufügen'
+		});
+		
+		
+
+yt.setMsg({
+	'UNBLOCK_USER': "Möchtest du die Blockierung dieses Nutzers wirklich aufheben?",
+	'BLOCK_USER': "Möchtest du diesen Nutzer wirklich blockieren?"
+});
+yt.setConfig('BLOCK_USER_XSRF', '');
+
+
+
+			yt.setConfig({
+		'COMMENTS_THRESHHOLD': -5,
+		'COMMENTS_FILTER': 0,
+		'COMMENTS_PAGE_SIZE': 10,
+		'COMMENTS_COUNT': 23,
+		'COMMENTS_PPS_CAN_POST_OR_REACT_TO_COMMENT': true
+	});
+	yt.setMsg({
+		'COMMENT_OK': 'OK',
+		'COMMENT_BLOCKED': 'Du wurdest vom Eigentümer dieses Videos blockiert.',
+		'COMMENT_CAPTCHAFAIL': 'Die Buchstaben im Bild wurden falsch eingegeben. Versuche es erneut.',
+		'COMMENT_PENDING': 'Kommentar muss noch genehmigt werden.',
+		'COMMENT_ERROR': 'Fehler, versuche es erneut'
+	});
+
+
+
+		
+		yt.pubsub.subscribe('init', yt.www.watch.sow.resizeForSearch);
+		yt.events.listen(window, 'resize', yt.www.watch.sow.resizeForSearch);
+
+			function tn_load(index) {
+		if (window.yt.timing && yt.timing.handleThumbnailLoad){
+			yt.timing.handleThumbnailLoad(index);
+		}
+	}
+
+
+		
+
+
+	
+		yt.pubsub.subscribe('init', yt.www.watch.player.enableVideoQualityDisplay);
+
+		yt.pubsub.subscribe('init', function() {
+			yt.www.watch.player.handleHashArgumentsOnWatchLoad();
+		});
+		
+
+
+		yt.pubsub.subscribe('init', function() {
+			var description = _gel('watch-description');
+			if (!_hasclass(description, 'yt-uix-expander-collapsed')) {
+				yt.www.watch.watch5.handleToggleDescription(description);
+			}
+		});
+
+		
+
+		yt.pubsub.subscribe('init', function() {
+			var headEl = goog.dom.getElementsByTagNameAndClass('head', null, null)[0];
+			var scriptEl = document.createElement('script');
+			scriptEl.type = 'text/javascript';
+			scriptEl.src = 'http://s.ytimg.com/yt/jsbin/www-dragdrop-vfl170539.js';
+			headEl.appendChild(scriptEl);
+		});
+		
+
+
+
+
+	</script>
+	
+	
+	
+
+
+	
+
+				<script>
+			yt.setConfig('TIMING_ACTION', 'watch5');
+		</script>
+
+	
+	
+	<script>
+	
+		
+
+			yt.pubsub.subscribe('init', function() {
+
+		yt.www.thumbnailDelayLoad.setFudgeFactor(0);
+	
+	if (document.documentElement["getBoundingClientRect"]) {
+		yt.events.listen(window, 'scroll', yt.www.thumbnailDelayLoad.loadImages);
+		yt.events.listen(window, 'resize', yt.www.thumbnailDelayLoad.loadImages);
+	}
+	yt.www.thumbnailDelayLoad.loadImages();
+
+		yt.www.thumbnailDelayLoad.setLoadAllAtOnce(true);
+
+	});
+
+		
+		
+			yt.setTimeout(function() {
+				window.yt.www.suggest.install(document.searchForm,
+						document.searchForm.search_query,
+						'de','Schließen',
+						'Vorschläge',
+						'Websuche',
+						-1,
+						null);
+					}, 100);
+
+	</script>
+	
+	<script id="legacy-user-datastore" style="behavior:url('#default#userdata')"></script>
+	
+	
+
+
+	<!-- end postpage section -->
+	<!--[if IE]></div><![endif]-->
+</body>
+
+</html>
