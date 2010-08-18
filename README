@@ -6,5 +6,7 @@ See gnash_ipad.sh as the starting point. But there is currently a lot of informa
 missing (for example SDL is compiled very differently then the current configure/makefiles)!
 So if you get stuck drop me a line.
 
+For the plugin, good to start at src / gnash  / plugin  / safari 
+
 Links:
 Plugin that started the idea - http://github.com/steventroughtonsmith/MobileSafariPlugin
